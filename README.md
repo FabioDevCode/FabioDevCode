@@ -8,7 +8,9 @@
 ##
 
 <div>
-<img height="35em" src="https://github.com/FabioDevCode/FabioDevCode/blob/main/Javascript.png"/>
+ <img height="35em" src="https://github.com/FabioDevCode/FabioDevCode/blob/main/Html5.png"/>
+ <img height="35em" src="https://github.com/FabioDevCode/FabioDevCode/blob/main/Css3.png"/>
+ <img height="35em" src="https://github.com/FabioDevCode/FabioDevCode/blob/main/Javascript.png"/>
 
 </div>
 
