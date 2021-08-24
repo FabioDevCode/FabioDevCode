@@ -1,5 +1,5 @@
 ### Salut 👋
-## Je me nomme Fabio RAMOS LOPES
+## Je suis Fabio RAMOS LOPES
 #### Mes infos :
 - 28 ans
 - Étudiant en développement web (Bac +2)
