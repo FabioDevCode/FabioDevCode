@@ -1,4 +1,4 @@
-## Salut 👋 Je suis Fabio RAMOS LOPES
+## Salut 👋 Je suis Fabio
 ####
 - 📚 Étudiant en développement web (Bac +2)
 - 📍 Bordeaux, Gironde FR
