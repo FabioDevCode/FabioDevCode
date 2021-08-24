@@ -2,7 +2,7 @@
 ####
 - Étudiant en développement web (Bac +2)
 - 📍 Bordeaux, Gironde FR
-- Disponible : 1er Janvier 2022 ➡️ CDI, Alternance ou CDD
+- ➡️ Disponible : 1er Janvier 2022 (CDI, Alternance ou CDD)
 
 
 ##
