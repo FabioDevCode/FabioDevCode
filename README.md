@@ -8,10 +8,10 @@
 ##
 
 <div>
- <img height="35em" src="https://github.com/FabioDevCode/FabioDevCode/blob/main/Html5.png"/>
- <img height="35em" src="https://github.com/FabioDevCode/FabioDevCode/blob/main/Css3.png"/>
-  <img height="35em" src="https://github.com/FabioDevCode/FabioDevCode/blob/main/sass.png"/>
- <img height="35em" src="https://github.com/FabioDevCode/FabioDevCode/blob/main/Javascript.png"/>
+ <img height="35em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
+ <img height="35em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
+  <img height="35em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg"/>
+ <img height="35em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
 
 </div>
 
