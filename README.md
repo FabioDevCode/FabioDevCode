@@ -1,10 +1,9 @@
-### Salut 👋
-## Je suis Fabio RAMOS LOPES
-#### Mes infos :
-- 28 ans
+## Salut 👋 Je suis Fabio RAMOS LOPES
+####
 - Étudiant en développement web (Bac +2)
 - 📍 Bordeaux, Gironde FR
 - Disponible : 1er Janvier 2022 ➡️ CDI, Alternance ou CDD
+
 
 ## GitHub
  <div>
@@ -20,6 +19,6 @@
   <a href="https://www.instagram.com/fabiodevcode/" target="_blank"><img height="40em" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
 </div>
  
- ##
+ 
  
 ![Snake animation](https://github.com/FabioDevCode/FabioDevCode/blob/output/github-contribution-grid-snake.svg)
