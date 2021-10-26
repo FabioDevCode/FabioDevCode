@@ -26,11 +26,18 @@
 
  <br>
 
- <div>
+<div>
   <a href="https://github.com/FabioDevCode">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=FabioDevCode&show_icons=true&theme=vue-dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FabioDevCode&layout=compact&langs_count=7&theme=vue-dark"/>
+  <img align="top"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=FabioDevCode&layout=defaut&theme=highcontrast&langs_count=10&bg_color=273849&title_color=41B783&icon_color=41B783&&text_color=ffffff&border_color=ffffff&border_radius=25px"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=FabioDevCode&show_icons=true&theme=vue-dark&border_radius=25px&include_all_commits=true&count_private=true"/>
 </div>
+
+
+<!--  <div>
+  <a href="https://github.com/FabioDevCode">
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=FabioDevCode&show_icons=true&theme=vue-dark&border_radius=15&include_all_commits=true&count_private=true"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FabioDevCode&layout=compact&langs_count=7&theme=vue-dark&border_radius=15"/>
+</div> -->
  
  ## Commits
 
