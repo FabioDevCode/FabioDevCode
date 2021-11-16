@@ -9,36 +9,32 @@
 
 <div>
   <a href="https://www.linkedin.com/in/fabio-ramoslopes/" target="_blank"><img height="40em" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-<!--   <a href="https://www.instagram.com/fabiodevcode/" target="_blank"><img height="40em" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a> -->
 </div>
 
 <br>
 
 ## Github, Langages & Technologies
-
+<br>
 <div>
  <img height="35em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
  <img height="35em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
  <img height="35em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg"/>
  <img height="35em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
  <img height="35em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"/>
+ <img height="35em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" />
 </div>
 
+##
  <br>
 
 <div>
   <a href="https://github.com/FabioDevCode">
   <img align="top"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=FabioDevCode&layout=defaut&theme=highcontrast&langs_count=10&bg_color=273849&title_color=41B783&icon_color=41B783&&text_color=ffffff&border_color=ffffff&border_radius=25px"/>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=FabioDevCode&show_icons=true&theme=vue-dark&border_radius=25px&include_all_commits=true&count_private=true"/>
+   <img align="top" height="180em" src="https://github-readme-stats.vercel.app/api?username=FabioDevCode&layout=defaut&theme=highcontrast&langs_count=10&bg_color=273849&title_color=41B783&icon_color=41B783&&text_color=ffffff&border_color=ffffff&border_radius=25px"/>
 </div>
 
+<br>
 
-<!--  <div>
-  <a href="https://github.com/FabioDevCode">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=FabioDevCode&show_icons=true&theme=vue-dark&border_radius=15&include_all_commits=true&count_private=true"/>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FabioDevCode&layout=compact&langs_count=7&theme=vue-dark&border_radius=15"/>
-</div> -->
- 
  ## Commits
 
 ![Snake animation](https://github.com/FabioDevCode/FabioDevCode/blob/output/github-contribution-grid-snake.svg)
