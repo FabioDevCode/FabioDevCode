@@ -1,9 +1,12 @@
-## Bonjour 👋 Je suis Fabio
-####
-- 📚 Étudiant en développement web (Bac +2)
+<h2 align="center">Bonjour 👋 Je suis Fabio R. LOPES !</h2>
+<h3 align="center">Développeur Web - Front-End</h3>
+
+<br>
+
 - 📍 Bordeaux, Gironde FR
 - ➡️ Disponible : 1er Janvier 2022 - CDI ou CDD / 1er Mars 2022 - Alternance Bac+3/4 (Wild Code School)
 
+<br>
 
 #### Me contacter
 
@@ -27,15 +30,13 @@
 ##
  <br>
 
-<div>
+<div align="rigth">
   <a href="https://github.com/FabioDevCode">
   <img align="top"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=FabioDevCode&layout=defaut&theme=highcontrast&langs_count=10&bg_color=273849&title_color=41B783&icon_color=41B783&&text_color=ffffff&border_color=ffffff&border_radius=25px"/>
-   <img align="top" height="180em" src="https://github-readme-stats.vercel.app/api?username=FabioDevCode&layout=defaut&theme=highcontrast&langs_count=10&bg_color=273849&title_color=41B783&icon_color=41B783&&text_color=ffffff&border_color=ffffff&border_radius=25px"/>
+   <img align="right" height="180em" src="https://github-readme-stats.vercel.app/api?username=FabioDevCode&layout=defaut&theme=highcontrast&langs_count=10&bg_color=273849&title_color=41B783&icon_color=41B783&&text_color=ffffff&border_color=ffffff&border_radius=25px"/>
 </div>
 
 <br>
 
- ## Commits
-
+## Commits
 ![Snake animation](https://github.com/FabioDevCode/FabioDevCode/blob/output/github-contribution-grid-snake.svg)
- 
