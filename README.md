@@ -2,6 +2,7 @@
 <h3 align="center">Développeur Web - Front-End</h3>
 
 <br>
+<br>
 
 - 📍 Bordeaux, Gironde FR
 - ➡️ Disponible : 1er Janvier 2022 - CDI ou CDD / 1er Mars 2022 - Alternance Bac+3/4 (Wild Code School)
