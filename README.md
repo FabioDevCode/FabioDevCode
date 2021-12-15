@@ -5,7 +5,7 @@
 <br>
 
 - 📍 Bordeaux, Gironde FR
-- ➡️ Disponible : 1er Janvier 2022 - CDI ou CDD / 1er Mars 2022 - Alternance Bac+3/4 (Wild Code School)
+- ➡️ Disponible : 7 Mars 2022 - CDI, CDD ou Alternance Bac+3/4 (Wild Code School)
 
 <br>
 
