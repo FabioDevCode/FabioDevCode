@@ -20,9 +20,9 @@
 
 <table border="0">
  <tr>
-    <td><b style="font-size:30px">LANGAGES</b></td>
-   <td><b style="font-size:30px">FRAMEWORK</b></td>
-   <td><b style="font-size:30px">OUTILS</b></td>
+    <td><b style="font-size:30px">LANGAGES :</b></td>
+   <td><b style="font-size:30px">FRAMEWORK :</b></td>
+   <td><b style="font-size:30px">OUTILS & AUTRE :</b></td>
  </tr>
  <tr>
     <td>
@@ -37,6 +37,8 @@
     <td>
       <img height="35em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"/>
       <img height="35em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg"/>
+      <img height="35em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"/>
+      <img height="35em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg"/>
     </td>
  </tr>
 </table>
