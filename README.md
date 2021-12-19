@@ -9,28 +9,42 @@
 
 <br>
 
-#### Me contacter
-
+#### Me contacter :
+  
 <div>
   <a href="https://www.linkedin.com/in/fabio-ramoslopes/" target="_blank"><img height="40em" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 </div>
 
 <br>
-
-## Github, Langages & Technologies
 <br>
-<div>
- <img height="35em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
- <img height="35em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
- <img height="35em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg"/>
- <img height="35em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
- <img height="35em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"/>
- <img height="35em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" />
- <img height="35em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" />
-</div>
 
-##
- <br>
+<table border="0">
+ <tr>
+    <td><b style="font-size:30px">LANGAGES</b></td>
+   <td><b style="font-size:30px">FRAMEWORK</b></td>
+   <td><b style="font-size:30px">OUTILS</b></td>
+ </tr>
+ <tr>
+    <td>
+      <img height="35em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
+      <img height="35em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
+      <img height="35em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
+    </td>
+    <td>
+      <img height="35em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg"/>
+      <img height="35em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg"/>
+    </td>
+    <td>
+      <img height="35em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"/>
+      <img height="35em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg"/>
+    </td>
+ </tr>
+</table>
+
+<br>
+
+## Github
+<br>
 
 <div align="rigth">
   <a href="https://github.com/FabioDevCode">
