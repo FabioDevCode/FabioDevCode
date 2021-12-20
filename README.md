@@ -1,13 +1,20 @@
-<h2 align="center">Bonjour 👋 Je suis Fabio R. LOPES !</h2>
-<h3 align="center">Développeur Web - Front-End</h3>
+<h1 align="center">Bonjour 👋 Je suis Fabio R. LOPES !</h1>
+<h3 align="center">Développeur Web, Front-End | Vue.js / Node.js</h3>
+
+<br>
+
+<div>
+  Ayant eu divers postes dans le multimédia, les télécom puis dans le domaine bancaire, j’ai décidé de choisir un domaine dans le quel je pourrais m’épanouir. 
+  Appréciant la   technologie et l'informatique, j'ai choisi de me reconvertir dans le développement web. Souhaitant savoir tout faire, j’ai envie d’apprendre le développement   de web, mobile et etc. Soucieux du design, je me spécialise cependant dans le développement front-end.
+</div>
+
 
 <br>
 <br>
 
 - 📍 Bordeaux, Gironde FR
-- ➡️ Disponible : 7 Mars 2022 - CDI, CDD ou Alternance Bac+3/4 (Wild Code School)
+- ➡️ Disponible : 7 Mars 2022 - CDI, CDD ou Alternance Bac+3/4 (Wild Code School, Bordeaux)
 
-<br>
 
 #### Me contacter :
   
