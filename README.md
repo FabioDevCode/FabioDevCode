@@ -25,7 +25,7 @@
 <br>
 <br>
 
-<table border="0">
+<table border="0" align="center">
  <tr>
     <td><b style="font-size:30px">LANGAGES</b></td>
    <td><b style="font-size:30px">FRAMEWORK</b></td>
