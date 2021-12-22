@@ -12,16 +12,21 @@
 <br>
 <br>
 
-- 📍 Bordeaux, Gironde FR
-- ➡️ Disponible : 7 Mars 2022 - CDI, CDD ou Alternance Bac+3/4 (Wild Code School, Bordeaux)
 
+<div align="left">
+  <div>- 📍 Bordeaux, Gironde FR</div>
+  <div>- ➡️ Disponible : 7 Mars 2022 - CDI, CDD ou Alternance.</div>
+</div>
 
-#### Me contacter :
+<br>
+
+<h5 align="left">Me contacter :</h5>
   
-<div>
+<div align="left">
   <a href="https://www.linkedin.com/in/fabio-ramoslopes/" target="_blank"><img height="40em" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 </div>
 
+##
 <br>
 <br>
 
