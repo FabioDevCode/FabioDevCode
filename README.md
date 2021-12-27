@@ -15,7 +15,7 @@
 
 <div align="left">
   <div>- 📍 Bordeaux, Gironde FR</div>
-  <div>- ➡️ Disponible : 7 Mars 2022 - CDI, CDD ou Alternance.</div>
+  <div>- ➡️ Disponible : 1er Mars 2022 - CDI, CDD ou Alternance.</div>
 </div>
 
 <br>
