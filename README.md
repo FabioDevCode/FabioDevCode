@@ -33,7 +33,7 @@
 <table border="0" align="center">
  <tr>
     <td><b style="font-size:30px">LANGAGES</b></td>
-   <td><b style="font-size:30px">FRAMEWORK</b></td>
+   <td><b style="font-size:30px">FRAMEWORKS</b></td>
    <td><b style="font-size:30px">OUTILS & AUTRE</b></td>
  </tr>
  <tr>
