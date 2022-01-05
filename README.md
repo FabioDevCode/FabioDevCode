@@ -4,7 +4,7 @@
 <br>
 
 <div>
-Ayant eu divers postes dans le multimédia et les télécom, j'ai choisi de me reconvertir dans le développement web et de me spécialiser dans le développement web front-end.
+Ayant eu diverses expériences dans le multimédia et les télécom, j'ai choisi de me reconvertir dans le développement et de me spécialiser dans le développement web avec un attrait particulié pour le front-end.
 </div>
 
 
