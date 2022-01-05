@@ -4,8 +4,7 @@
 <br>
 
 <div>
-  Ayant eu divers postes dans le multimédia et les télécom, j’ai décidé de choisir un domaine dans le quel je pourrais m’épanouir. 
-  Appréciant la   technologie et l'informatique, j'ai choisi de me reconvertir dans le développement web. Souhaitant savoir tout faire, j’ai envie d’apprendre le développement   de web, mobile et etc. Soucieux du design, je me spécialise cependant dans le développement front-end.
+Ayant eu divers postes dans le multimédia et les télécom, j'ai choisi de me reconvertir dans le développement web et de me spécialiser dans le développement web front-end.
 </div>
 
 
