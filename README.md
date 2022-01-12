@@ -14,7 +14,7 @@ Ayant eu diverses expériences dans le multimédia et les télécom, j'ai choisi
 
 <div align="left">
   <div>- 📍 Bordeaux, Gironde FR</div>
-  <div>- ➡️ Disponible : 7 Mars 2022 - CDI, CDD ou Alternance.</div>
+  <div>- ➡️ Disponible : Immédiatement - CDI, CDD ou Alternance.</div>
 </div>
 
 <br>
