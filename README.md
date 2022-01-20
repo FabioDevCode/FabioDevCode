@@ -1,5 +1,5 @@
 <h1 align="center">Bonjour 👋 Je suis Fabio R. LOPES !</h1>
-<h3 align="center">Développeur Web, Front-End | Vue.js / Node.js</h3>
+<h3 align="center">Développeur Web | Vue.js / Node.js</h3>
 
 <br>
 
@@ -14,7 +14,6 @@ Ayant eu diverses expériences dans le multimédia et les télécom, j'ai choisi
 
 <div align="left">
   <div>- 📍 Bordeaux, Gironde FR</div>
-  <div>- ➡️ Disponible : Immédiatement - CDI, CDD ou Alternance.</div>
 </div>
 
 <br>
