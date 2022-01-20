@@ -12,12 +12,6 @@ Ayant eu diverses expériences dans le multimédia et les télécom, j'ai choisi
 <br>
 
 
-<div align="left">
-  <div>- 📍 Bordeaux, Gironde FR</div>
-</div>
-
-<br>
-
 <h5 align="left">Me contacter :</h5>
   
 <div align="left">
