@@ -1,5 +1,5 @@
-<h1 align="center">Bonjour 👋 Je suis Fabio R. LOPES !</h1>
-<h3 align="center">Développeur Web | Vue.js / Node.js</h3>
+<h1 align="left">Bonjour 👋 Je suis Fabio R. LOPES !</h1>
+<h3 align="left">Développeur Web | Vue.js / Node.js</h3>
 
 <br>
 
@@ -9,20 +9,20 @@ Ayant eu diverses expériences dans le multimédia et les télécom, j'ai choisi
 
 
 <br>
-<br>
 
 
-<h5 align="left">Me contacter :</h5>
-  
 <div align="left">
+  <h5 align="left">Me contacter :</h5>
+  
   <a href="https://www.linkedin.com/in/fabio-ramoslopes/" target="_blank"><img height="40em" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 </div>
 
-##
+
 <br>
 <br>
 
-<table border="0" align="center">
+
+<table border="0" align="left">
  <tr>
     <td><b style="font-size:30px">LANGAGES</b></td>
    <td><b style="font-size:30px">FRAMEWORKS</b></td>
@@ -48,6 +48,11 @@ Ayant eu diverses expériences dans le multimédia et les télécom, j'ai choisi
 </table>
 
 <br>
+<br>
+<br>
+<br>
+<br>
+
 
 ## Github
 <br>
