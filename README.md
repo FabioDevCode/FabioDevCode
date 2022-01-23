@@ -1,5 +1,5 @@
 <h1 align="left">Bonjour 👋 Je suis Fabio R. LOPES !</h1>
-<h3 align="left">Développeur Web | Vue.js / Node.js</h3>
+<h3 align="left">Développeur Web | Javascript / Vue.js / Node.js</h3>
 
 <br>
 
