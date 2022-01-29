@@ -1,15 +1,7 @@
-<h1 align="left">Bonjour 👋 Je suis Fabio R. LOPES !</h1>
-<h3 align="left">Développeur Web | Javascript / Vue.js / Node.js</h3>
+<h1 align="left">Bonjour 👋 Je suis Fabio R. LOPES. Développeur Web !</h1>
+<!-- <h3 align="left">Développeur Web | Javascript / Vue.js / Node.js</h3> -->
 
 <br>
-
-<div>
-Ayant eu diverses expériences dans le multimédia et les télécom, j'ai choisi de me reconvertir dans le développement et de me spécialiser dans le développement web avec un attrait particulier pour le front-end.
-</div>
-
-
-<br>
-
 
 <div align="left">
   <h5 align="left">Me contacter :</h5>
