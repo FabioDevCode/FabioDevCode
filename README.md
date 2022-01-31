@@ -1,64 +1,43 @@
-<h1 align="left">Bonjour 👋 Je suis Fabio R. LOPES, Développeur Web !</h1>
+## Salut 👋 ! Je suis Fabio R. LOPES, Développeur Web !
 <!-- <h3 align="left">Développeur Web | Javascript / Vue.js / Node.js</h3> -->
 
 <br>
 
-<div align="left">
-  <h5 align="left">Me contacter :</h5>
-  
-  <a href="https://www.linkedin.com/in/fabio-ramoslopes/" target="_blank"><img height="40em" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-</div>
-
-
-<br>
-<br>
-
-
-<table border="0" align="left">
- <tr>
-    <td><b style="font-size:30px">LANGAGES</b></td>
-   <td><b style="font-size:30px">FRAMEWORKS</b></td>
-   <td><b style="font-size:30px">OUTILS & AUTRE</b></td>
- </tr>
- <tr>
-    <td>
-      <img height="35em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
-      <img height="35em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
-      <img height="35em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
-    </td>
-    <td>
-      <img height="35em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg"/>
-      <img height="35em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg"/>
-    </td>
-    <td>
-      <img height="35em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"/>
-      <img height="35em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg"/>
-      <img height="35em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"/>
-      <img height="35em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg"/>
-    </td>
- </tr>
-</table>
-
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-
-
-## Github
-<br>
-
-<div align="rigth">
+<div align="center" display="inline-block">
   <a href="https://github.com/FabioDevCode">
-  <img align="top"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=FabioDevCode&layout=defaut&theme=highcontrast&langs_count=10&bg_color=273849&title_color=41B783&icon_color=41B783&&text_color=ffffff&border_color=ffffff&border_radius=25px"/>
-   <img align="right" height="180em" src="https://github-readme-stats.vercel.app/api?username=FabioDevCode&layout=defaut&theme=highcontrast&langs_count=10&bg_color=273849&title_color=41B783&icon_color=41B783&&text_color=ffffff&border_color=ffffff&border_radius=25px"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FabioDevCode&layout=compact&langs_count=7&theme=vue-dark&border_radius=15px"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=FabioDevCode&theme=vue-dark&border_radius=15px"/> 
 </div>
 
 <br>
+  
+<div display="block">
+  <table border="0" align="right">
+   <tr>
+      <td>TECHNOLOGIES</td>
+   </tr>
+   <tr>
+      <td>
+        <img height="30px" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
+        <img height="30px" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
+        <img height="30px" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
+        <img height="30px" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg"/>
+        <img height="35px" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg"/>
+        <img height="30px" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"/>
+        <img height="30px" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg"/>
+      </td>
+   </tr>
+  </table>
+</div>
+  
 
-## Commits
-![Snake animation](https://github.com/FabioDevCode/FabioDevCode/blob/output/github-contribution-grid-snake.svg)
+
+
+<div align="cneter" display="block">
+  <h5>Me contacter :</h5>
+  <a href="https://www.linkedin.com/in/fabio-ramoslopes/" target="_blank"><img height="35px" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+</div>
 
   
+##
+![Snake animation](https://github.com/FabioDevCode/FabioDevCode/blob/output/github-contribution-grid-snake.svg)
