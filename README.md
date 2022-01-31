@@ -1,4 +1,4 @@
-<h1 align="left">Bonjour 👋 Je suis Fabio R. LOPES. Développeur Web !</h1>
+<h1 align="left">Bonjour 👋 Je suis Fabio R. LOPES, Développeur Web !</h1>
 <!-- <h3 align="left">Développeur Web | Javascript / Vue.js / Node.js</h3> -->
 
 <br>
