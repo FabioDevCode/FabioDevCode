@@ -5,16 +5,19 @@
 
 <div align="center" display="inline-block">
   <a href="https://github.com/FabioDevCode">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FabioDevCode&layout=compact&langs_count=7&theme=vue-dark&border_radius=15px"/>
+  <img height="180em" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FabioDevCode&layout=compact&langs_count=7&theme=vue-dark&border_radius=15px"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=FabioDevCode&theme=vue-dark&border_radius=15px"/> 
 </div>
 
+##
+  
 <br>
   
+
 <div display="block">
   <table border="0" align="right">
    <tr>
-      <td>TECHNOLOGIES</td>
+     <td><b style="font-size:30px">TECHNOLOGIES</b></td>
    </tr>
    <tr>
       <td>
@@ -30,14 +33,11 @@
   </table>
 </div>
   
+<br>
 
-
-
-<div align="cneter" display="block">
-  <h5>Me contacter :</h5>
+<div align="left" display="block">
   <a href="https://www.linkedin.com/in/fabio-ramoslopes/" target="_blank"><img height="35px" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 </div>
 
   
-##
 ![Snake animation](https://github.com/FabioDevCode/FabioDevCode/blob/output/github-contribution-grid-snake.svg)
