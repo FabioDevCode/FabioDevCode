@@ -11,11 +11,7 @@
 
 ##
   
-<br>
-  
-
-<div display="block">
-  <table border="0" align="right">
+<table border="0" align="right" display="block">
    <tr>
      <td><b style="font-size:30px">TECHNOLOGIES</b></td>
    </tr>
@@ -23,18 +19,16 @@
       <td>
         <img height="30px" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
         <img height="30px" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
+        <img height="30px" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg"/>
         <img height="30px" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
-        <img height="30px" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg"/>
         <img height="35px" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg"/>
         <img height="30px" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"/>
-        <img height="30px" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg"/>
+        <img height="30px" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg"/>
       </td>
    </tr>
-  </table>
-</div>
-  
-<br>
+</table>
 
+  
 <div align="left" display="block">
   <a href="https://www.linkedin.com/in/fabio-ramoslopes/" target="_blank"><img height="35px" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 </div>
