@@ -1,12 +1,12 @@
-## Salut 👋 ! Je suis Fabio R. LOPES, Développeur Web !
+## Hey ! 👋 Je suis Fabio R. LOPES, Développeur Web !
 <!-- <h3 align="left">Développeur Web | Javascript / Vue.js / Node.js</h3> -->
 
 <br>
 
 <div align="center" display="inline-block">
   <a href="https://github.com/FabioDevCode">
-  <img height="170px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FabioDevCode&layout=compact&langs_count=5&theme=vue-dark&border_radius=15px"/>
-  <img height="170px" src="https://github-readme-stats.vercel.app/api?username=FabioDevCode&theme=vue-dark&border_radius=15px"/> 
+  <img height="175px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FabioDevCode&layout=compact&langs_count=5&theme=vue-dark&border_radius=15px"/>
+  <img height="175px" src="https://github-readme-stats.vercel.app/api?username=FabioDevCode&theme=vue-dark&border_radius=15px"/> 
 </div>
 
 ##
@@ -30,8 +30,8 @@
 
   
 <div align="left" display="block">
-  <a href="https://www.linkedin.com/in/fabio-ramoslopes/" target="_blank"><img height="35px" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="https://www.instagram.com/fabiodevcode/" target="_blank"><img height="35px" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/fabio-ramoslopes/" target="_blank"><img height="30px" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://www.instagram.com/fabiodevcode/" target="_blank"><img height="30px" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
 </div>
 
   
