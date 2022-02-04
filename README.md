@@ -3,15 +3,15 @@
 
 <br>
 
-<div align="center" display="inline-block">
+<div align="left" display="inline-block">
   <a href="https://github.com/FabioDevCode">
-  <img height="175px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FabioDevCode&layout=compact&langs_count=5&theme=vue-dark&border_radius=15px"/>
+  <img height="175px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FabioDevCode&layout=compact&langs_count=5&theme=vue-dark&border_radius=15px"/>
   <img height="175px" src="https://github-readme-stats.vercel.app/api?username=FabioDevCode&theme=vue-dark&border_radius=15px"/> 
 </div>
 
-##
+<br>
   
-<table border="0" align="right" display="block">
+<table border="0" align="left" display="block">
    <tr>
      <td><b style="font-size:30px">TECHNOLOGIES</b></td>
    </tr>
@@ -27,12 +27,14 @@
       </td>
    </tr>
 </table>
-
   
-<div align="left" display="block">
+<div align="center" display="inline-block">
   <a href="https://www.linkedin.com/in/fabio-ramoslopes/" target="_blank"><img height="30px" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="https://www.instagram.com/fabiodevcode/" target="_blank"><img height="30px" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
 </div>
 
+<br>
+
+##
   
 ![Snake animation](https://github.com/FabioDevCode/FabioDevCode/blob/output/github-contribution-grid-snake.svg)
