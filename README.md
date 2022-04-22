@@ -5,7 +5,7 @@
 
 <div align="center" display="inline-block">
   <a href="https://github.com/FabioDevCode">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FabioDevCode&layout=compact&langs_count=6&theme=vue-dark&border_radius=8px"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FabioDevCode&layout=compact&langs_count=5&theme=vue-dark&border_radius=8px"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=FabioDevCode&theme=vue-dark&border_radius=8px"/> 
 </div>
 
@@ -22,10 +22,15 @@
 <!--   <img height="30px" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" /> -->
 </div>
 
+#### Centre d'intérêt :
 
-  
+<div border="0" align="left" display="block">
+  <img height="30px" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/electron/electron-original.svg" />
+  <img height="30px" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuetify/vuetify-original.svg" />
+  <img height="30px" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
+</div>
+
 ##
-
 <br>
   
 <div align="left" display="block">
