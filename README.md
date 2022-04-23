@@ -29,7 +29,7 @@
   <img height="30px" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
 </div>
 
-<!-- ## -->
+##
   
 <!-- <div align="left" display="block">
   <a href="https://www.linkedin.com/in/fabio-ramoslopes/" target="_blank"><img height="32px" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
