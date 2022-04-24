@@ -21,7 +21,7 @@
   <img height="32px" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg"/>
 </div>
 
-#### Centre d'intérêt :
+#### Centre d'intérêt actuel :
 
 <div border="0" align="left" display="block">
   <img height="34px" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/electron/electron-original.svg" />
