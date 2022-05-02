@@ -1,4 +1,4 @@
-## Hey ! 👋 Je suis Fabio RAMOS LOPES, Développeur Web !
+## Hey ! 👋 Je suis Fabio R. LOPES, Développeur Web !
 <!-- <h3 align="left">Développeur Web | Javascript / Vue.js / Node.js</h3> -->
 
 <br>
