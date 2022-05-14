@@ -9,6 +9,8 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=FabioDevCode&theme=vue-dark&border_radius=8px"/> 
 </div>
 
+##
+
 #### Mes technologies :
   
 <div border="0" align="left" display="block">
@@ -31,15 +33,7 @@
   <img height="32px" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
 </div>
 
-##
-  
-<!-- <div align="left" display="block">
-  <a href="https://www.linkedin.com/in/fabio-ramoslopes/" target="_blank"><img height="32px" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="https://www.instagram.com/fabiodevcode/" target="_blank"><img height="32px" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
-  <a href="https://twitter.com/fabiodevcode" target="_blank"><img height="32px" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>
-</div>
+----
 
-<br>
-   -->
 ![Snake animation](https://github.com/FabioDevCode/FabioDevCode/blob/output/github-contribution-grid-snake.svg)
  
