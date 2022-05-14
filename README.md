@@ -9,7 +9,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=FabioDevCode&theme=vue-dark&border_radius=8px"/> 
 </div>
 
-##
+----
 
 #### Mes technologies :
   
