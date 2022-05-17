@@ -1,13 +1,12 @@
 ## Hey ! 👋 Je suis Fabio R. LOPES, Développeur Web !
-<!-- <h3 align="left">Développeur Web | Javascript / Vue.js / Node.js</h3> -->
 
-<!-- <br> -->
+<br>
 
-<!-- <div align="center" display="inline-block">
+<div align="center" display="inline-block">
   <a href="https://github.com/FabioDevCode">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FabioDevCode&layout=compact&langs_count=5&theme=vue-dark&border_radius=8px"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=FabioDevCode&theme=vue-dark&border_radius=8px"/> 
-</div> -->
+</div>
 
 
 #### Mes technologies :
