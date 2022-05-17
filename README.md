@@ -33,7 +33,7 @@
   <img height="32px" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nuxtjs/nuxtjs-original.svg" />
 </div>
 
-----
+##
 
 ![Snake animation](https://github.com/FabioDevCode/FabioDevCode/blob/output/github-contribution-grid-snake.svg)
  
