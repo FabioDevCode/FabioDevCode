@@ -9,6 +9,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=FabioDevCode&theme=vue-dark&border_radius=8px"/> 
 </div>
 
+<br>
 
 #### Mes technologies :
   
@@ -25,15 +26,7 @@
 
 </div>
 
-#### Centre d'intérêt :
-
-<div border="0" align="left" display="block">
-  <img height="36px" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/electron/electron-original.svg" />
-  <img height="32px" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuetify/vuetify-original.svg" />
-<!--   <img height="34px" width="40px" src="https://pinia.vuejs.org/logo.svg" /> -->
-  <img height="33px" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
-<!--   <img height="32px" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nuxtjs/nuxtjs-original.svg" /> -->
-</div>
+<br>
 
 ##
 
