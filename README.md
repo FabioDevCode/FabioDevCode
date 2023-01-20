@@ -10,7 +10,7 @@
 
 
 
-## Compétences :
+## Stack technique :
 <br>
 
 <div border="0" align="left" display="inline-block">
