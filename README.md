@@ -1,6 +1,5 @@
 ## Hey ! 👋 Je suis Fábio RAMOS LOPES  !
 
-
 <br>
 
 <div align="center" display="inline-block">
@@ -11,7 +10,8 @@
 
 
 
-### Stack technique
+## Compétences :
+<br>
 
 <div border="0" align="left" display="inline-block">
   
@@ -27,13 +27,20 @@
   <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
   <img src="https://img.shields.io/badge/Sass-C6538C?style=for-the-badge&logo=sass&logoColor=white"/>
   <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/>
+
+  <br>
+  
+  <img src="https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
   
 
 </div>
 
-  
 <br>
 
 ---
 
 ![Snake animation](https://github.com/FabioDevCode/FabioDevCode/blob/output/github-contribution-grid-snake.svg)
+
+<br>
