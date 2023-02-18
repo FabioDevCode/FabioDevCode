@@ -2,7 +2,9 @@
 
 ## Hey ! 👋 Je suis Fábio RAMOS LOPES  !
 
-<img width="100%" src="./assets/bandeau_fabiolopes.jpg" alt="logo fabio lopes .fr">
+<div align="center">
+  <img width="100%" src="./assets/bandeau_fabiolopes.jpg" alt="logo fabio lopes .fr">
+</div>
 
 <br>
 
