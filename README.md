@@ -6,16 +6,6 @@
   <img width="90%" src="./assets/bandeau_fabiolopes.jpg" alt="logo fabio lopes .fr">
 </div>
 
-<br>
-
-<div align="center" display="inline-block">
-  <a href="https://github.com/FabioDevCode">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FabioDevCode&layout=compact&langs_count=6&theme=vue-dark&border_radius=8px"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=FabioDevCode&theme=vue-dark&border_radius=8px"/> 
-</div>
-
-
-
 ## Stack technique :
 <br>
 
@@ -39,10 +29,19 @@
   
 </div>
 
-
-
 ##
 
-![Snake animation](https://github.com/FabioDevCode/FabioDevCode/blob/output/github-contribution-grid-snake.svg)
-
 <br>
+
+<div align="center" display="inline-block">
+  <a href="https://github.com/FabioDevCode">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FabioDevCode&layout=compact&langs_count=8&theme=vue-dark&border_radius=8px"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=FabioDevCode&theme=vue-dark&border_radius=8px"/> 
+</div>
+  
+<div align="center" display="inline-block">
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=FabioDevCode&theme=vue&radius=8px" height="300em"/> 
+  
+  ![Snake animation](https://github.com/FabioDevCode/FabioDevCode/blob/output/github-contribution-grid-snake.svg)
+</div>
+
