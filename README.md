@@ -1,12 +1,27 @@
 
 
-## Hey ! 👋 Je suis Fábio RAMOS LOPES  !
+## Hey ! 👋 Je suis Fábio R. LOPES  !
 
-<div align="center">
-  <img width="90%" src="./assets/fabiodevcode_new-logo.png" alt="logo fabio lopes .fr">
+
+<img align="right" height="220px" src="./assets/fabiodevcode_new-logo.png" alt="logo fabio lopes .fr">
+
+<br>
+
+<div align="left">
+  <li> Développeur web</li>
+  <li> Passionné, dynamique, curieux et créatif </li>
+  <li> Polyvalent et véritable couteux suisse </li>
+  <li> Appétence pour le front-end </li>
+  <li> Préférence pour framework Vue.js </li>
+  <li> Cherche constamment à améliorer mes compétences </li>
 </div>
 
+<br>
+
+
+
 ### Stack technique :
+
 <br>
 
 <div border="0" align="left" display="inline-block">
@@ -28,7 +43,22 @@
   
 </div>
 
-##
+----
+
+<a href="https://twitter.com/FabioDevCode">
+  <img align="left" alt="Fabio R. Lopes Twitter" width="22px" src="https://simpleicons.now.sh/twitter/1572B6" />
+</a>
+<a href="https://www.instagram.com/fabiodevcode/">
+  <img align="left" alt="Fabio R. Lopes Instagram" width="22px" src="https://simpleicons.now.sh/instagram/1572B6" />
+</a>
+<a href="https://linkedin.com/in/fabiodevcode/">
+  <img align="left" alt="Fabio R. Lopes LinkedIn" width="22px" src="https://simpleicons.now.sh/linkedin/1572B6" />
+</a>
+
+| &nbsp;&nbsp;&nbsp; Prochainement mon portfolio : [www.fabiolopes.fr](https://www.fabiolopes.fr/)
+
+
+----
 
 <br>
 
