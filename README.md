@@ -16,6 +16,7 @@
   <li> Cherche constamment à améliorer mes compétences </li>
 </div>
 
+<br>
 
 #### Stack technique :
 
