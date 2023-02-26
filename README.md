@@ -62,7 +62,6 @@
 
 ----
 
-<br>
 <!--
 <div align="center" display="inline-block">
   <a href="https://github.com/FabioDevCode">
@@ -72,7 +71,7 @@
 -->
 
 <div align="center" display="inline-block">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=FabioDevCode&custom_title=Commit%20/%20Jour&theme=vue&bg_color=22272E&title_color=ADBAC7&color=ADBAC7&hide_border=true" height="#22272E"/> 
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=FabioDevCode&custom_title=Commit%20/%20Jour&theme=vue&bg_color=22272E&hide_title=true&color=ADBAC7&hide_border=true" height="#22272E"/> 
   
   ![Snake animation](https://github.com/FabioDevCode/FabioDevCode/blob/output/github-contribution-grid-snake.svg)
 </div>
