@@ -9,7 +9,7 @@
 
 <div align="left">
   <li> Développeur web</li>
-  <li> Passionné, dynamique, curieux et créatif </li>
+  <li> Passionné, dynamique et curieux </li>
   <li> Polyvalent et véritable couteux suisse </li>
   <li> Appétence pour le front-end </li>
   <li> Préférence pour framework Vue.js </li>
