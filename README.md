@@ -72,7 +72,7 @@
 -->
 
 <div align="center" display="inline-block">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=FabioDevCode&theme=vue&radius=8px" height="280em"/> 
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=FabioDevCode&custom_title=Commit%20/%20Jour&theme=vue&radius=8px" height="280em"/> 
   
   ![Snake animation](https://github.com/FabioDevCode/FabioDevCode/blob/output/github-contribution-grid-snake.svg)
 </div>
