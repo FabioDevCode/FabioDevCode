@@ -3,7 +3,7 @@
 ## Hey ! 👋 Je suis Fábio RAMOS LOPES  !
 
 <div align="center">
-  <img width="90%" src="./assets/bandeau_fabiolopes.jpg" alt="logo fabio lopes .fr">
+  <img width="90%" src="./assets/FabioDevCode_Logo.jpg" alt="logo fabio lopes .fr">
 </div>
 
 ### Stack technique :
