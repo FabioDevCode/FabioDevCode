@@ -40,7 +40,7 @@
 </div>
   
 <div align="center" display="inline-block">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=FabioDevCode&theme=vue&radius=8px" width="90%"/> 
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=FabioDevCode&theme=vue&radius=8px" height="300em"/> 
   
   ![Snake animation](https://github.com/FabioDevCode/FabioDevCode/blob/output/github-contribution-grid-snake.svg)
 </div>
