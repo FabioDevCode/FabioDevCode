@@ -46,30 +46,31 @@
 ----
 
 <a href="https://twitter.com/FabioDevCode">
-  <img align="left" alt="Fabio R. Lopes Twitter" width="22px" src="https://simpleicons.now.sh/twitter/1572B6" />
+  <img align="left" alt="Fabio R. Lopes Twitter" width="22px" src="https://simpleicons.now.sh/twitter/1C9AE8" />
 </a>
 <a href="https://www.instagram.com/fabiodevcode/">
-  <img align="left" alt="Fabio R. Lopes Instagram" width="22px" src="https://simpleicons.now.sh/instagram/1572B6" />
+  <img align="left" alt="Fabio R. Lopes Instagram" width="22px" src="https://simpleicons.now.sh/instagram/C234AE" />
 </a>
 <a href="https://linkedin.com/in/fabiodevcode/">
-  <img align="left" alt="Fabio R. Lopes LinkedIn" width="22px" src="https://simpleicons.now.sh/linkedin/1572B6" />
+  <img align="left" alt="Fabio R. Lopes LinkedIn" width="22px" src="https://simpleicons.now.sh/linkedin/0A66C2" />
 </a>
 
 | &nbsp;&nbsp;&nbsp; Prochainement mon portfolio : [www.fabiolopes.fr](https://www.fabiolopes.fr/)
 
 ----
+<div align="center" display="inline-block">
 
 <!--
-<div align="center" display="inline-block">
   <a href="https://github.com/FabioDevCode">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FabioDevCode&layout=compact&langs_count=8&theme=vue-dark&border_radius=8px"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=FabioDevCode&theme=vue-dark&border_radius=8px"/> 
 </div>
--->
+
 
 <div align="center" display="inline-block">
   <img src="https://github-readme-activity-graph.cyclic.app/graph?username=FabioDevCode&custom_title=Commit%20/%20Jour&theme=vue&bg_color=22272E&hide_title=true&color=ADBAC7&hide_border=true" height="#22272E"/> 
-  
+-->
+
   ![Snake animation](https://github.com/FabioDevCode/FabioDevCode/blob/output/github-contribution-grid-snake.svg)
 </div>
 
