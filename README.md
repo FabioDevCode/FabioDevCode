@@ -3,7 +3,7 @@
 ## Hey ! 👋 Je suis Fábio R. LOPES  !
 
 
-<img align="right" height="260px" src="./assets/fabiodevcode_new-logo.png" alt="logo fabio lopes .fr">
+<img align="right" height="280px" src="./assets/fabiodevcode_new-logo.png" alt="logo fabio lopes .fr">
 
 <br>
 
