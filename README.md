@@ -3,7 +3,7 @@
 ## Hey ! 👋 Je suis Fábio R. LOPES  !
 
 
-<img align="right" height="300px" src="./assets/fabiodevcode_new-logo.png" alt="logo fabio lopes .fr">
+<img align="right" height="260px" src="./assets/fabiodevcode_new-logo.png" alt="logo fabio lopes .fr">
 
 <br>
 
@@ -27,6 +27,8 @@
   <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=Express&logoColor=white"/>
   <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D"/>
   <img src="https://img.shields.io/badge/jQuery-F2F2F2?style=for-the-badge&logo=jquery&logoColor=13609E"/>
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
+  
   
   <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
   <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
