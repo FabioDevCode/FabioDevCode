@@ -11,7 +11,6 @@
   <li> Passionné, dynamique et curieux </li>
   <li> Polyvalent et véritable couteux suisse </li>
   <li> Appétence pour le front-end </li>
-  <li> Préférence pour le framework Vue.js </li>
   <li> Cherche constamment à améliorer mes compétences </li>
 </div>
 
