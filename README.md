@@ -1,4 +1,4 @@
-<img align="right" height="280px" src="./assets/fabiodevcode_new-logo.png" alt="logo fabio lopes .fr">
+<img align="right" height="300px" src="./assets/fabiodevcode_new-logo.png" alt="logo fabio lopes .fr">
 
 
 ## Hey ! 👋 Je suis Fábio R. LOPES  !
