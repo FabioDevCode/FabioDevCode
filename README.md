@@ -57,7 +57,7 @@
   <img align="left" alt="Fabio R. Lopes LinkedIn" width="22px" src="https://simpleicons.now.sh/linkedin/ADBAC7" />
 </a>
 
-| &nbsp;&nbsp;&nbsp; Prochainement mon portfolio : [www.fabiolopes.fr](https://www.fabiolopes.fr/)
+| &nbsp;&nbsp;&nbsp; Prochainement mon portfolio : [fabiolopes.fr](https://www.fabiolopes.fr/)
 
 ----
 <div align="center" display="inline-block">
