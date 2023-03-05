@@ -48,13 +48,13 @@
 ----
 
 <a href="https://twitter.com/FabioDevCode">
-  <img align="left" alt="Fabio R. Lopes Twitter" width="30px" src="https://img.icons8.com/3d-fluency/512/twitter-circled.png" />
+  <img align="left" alt="Fabio R. Lopes Twitter" width="25px" src="https://img.icons8.com/3d-fluency/512/twitter-circled.png" />
 </a>
 <a href="https://www.instagram.com/fabiodevcode/">
-  <img align="left" alt="Fabio R. Lopes Instagram" width="30px" src="https://img.icons8.com/3d-fluency/512/instagram-new.png" />
+  <img align="left" alt="Fabio R. Lopes Instagram" width="25px" src="https://img.icons8.com/3d-fluency/512/instagram-new.png" />
 </a>
 <a href="https://linkedin.com/in/fabiodevcode/">
-  <img align="left" alt="Fabio R. Lopes LinkedIn" width="30px" src="https://img.icons8.com/3d-fluency/512/linkedin.png" />
+  <img align="left" alt="Fabio R. Lopes LinkedIn" width="25px" src="https://img.icons8.com/3d-fluency/512/linkedin.png" />
 </a>
 
 | &nbsp;&nbsp;&nbsp; Prochainement mon portfolio : [fabiolopes.fr](https://www.fabiolopes.fr/)
