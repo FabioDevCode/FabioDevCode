@@ -7,7 +7,7 @@
 <div align="left">
   <li> Développeur web</li>
   <li> Passionné, dynamique et curieux </li>
-  <li> Polyvalent et véritable couteux suisse </li>
+  <li> Polyvalent et véritable couteau suisse </li>
   <li> Appétence pour le développement front-end </li>
   <li> Cherche constamment à améliorer mes compétences </li>
 </div>
