@@ -6,7 +6,6 @@
 
 <div align="left">
   <li> Développeur web</li>
-  <li> Passionné, dynamique et curieux </li>
   <li> Polyvalent et véritable couteau suisse </li>
   <li> Appétence pour le développement front-end </li>
   <li> Cherche constamment à améliorer mes compétences </li>
@@ -31,13 +30,6 @@
   <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
   <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
   <img src="https://img.shields.io/badge/Sass-C6538C?style=for-the-badge&logo=sass&logoColor=white"/>
-
-  <br>
-  <!--
-  <img src="https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
-  -->
   
 </div>
 
@@ -60,6 +52,12 @@
 ----
 <div align="center" display="inline-block">
 
+  ![Snake animation](https://github.com/FabioDevCode/FabioDevCode/blob/output/github-contribution-grid-snake.svg)
+
+</div>
+
+<br>
+
 <!--
   <a href="https://github.com/FabioDevCode">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FabioDevCode&layout=compact&langs_count=8&theme=vue-dark&border_radius=8px"/>
@@ -70,8 +68,3 @@
 <div align="center" display="inline-block">
   <img src="https://github-readme-activity-graph.cyclic.app/graph?username=FabioDevCode&custom_title=Commit%20/%20Jour&theme=vue&bg_color=22272E&hide_title=true&color=ADBAC7&hide_border=true" height="#22272E"/> 
 -->
-
-  ![Snake animation](https://github.com/FabioDevCode/FabioDevCode/blob/output/github-contribution-grid-snake.svg)
-</div>
-
-<br>
