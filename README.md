@@ -1,4 +1,4 @@
-## Hey ! 👋 Je suis Fábio R. LOPES  !
+## Hey ! 👋 Je suis Fabio R. LOPES  !
 
 <img align="right" height="280px" src="./assets/fabiodevcode_new-logo.png" alt="logo fabio lopes .fr">
 
