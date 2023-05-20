@@ -1,47 +1,51 @@
 ## Hey ! 👋 Je suis Fabio R. LOPES  !
 
-<img align="right" height="280px" src="./assets/fabiodevcode_new-logo.png" alt="logo fabio lopes .fr">
-
 <br>
 
-<div align="left">
-  <li> Développeur web</li>
-  <li> Polyvalent et véritable couteau suisse </li>
-  <li> Appétence pour le développement front-end </li>
-  <li> Cherche constamment à améliorer mes compétences </li>
+<div align="center">
+  <img align="right" height="160px" src="./assets/fabiodevcode_new-logo.png" alt="logo fabiolopes.fr">
+  
+  <div align="left">
+    <br>
+    <li> Développeur web</li>
+    <li> Polyvalent et véritable couteau suisse </li>
+    <li> Appétence pour le développement front-end </li>
+    <li> Cherche constamment à améliorer mes compétences </li>
+  </div>
 </div>
 
 <br>
+<br>
+<br>
 
-#### Stack technique :
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FabioDevCode&layout=compact&langs_count=8&theme=vue-dark&border_radius=8px"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=FabioDevCode&theme=vue-dark&border_radius=8px"/> 
+</div>
+
+<br>
+<br>
 
 
-<div border="0" align="left" display="inline-block">
+<h4>Stack technique :</h4>
+<div align="left">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
   <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"/>
   <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=Express&logoColor=white"/>
   <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D"/>
-  
   <br>
-  
   <img src="https://img.shields.io/badge/jQuery-F2F2F2?style=for-the-badge&logo=jquery&logoColor=13609E"/>
-  <!--
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
-  -->
   <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
   <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
   <img src="https://img.shields.io/badge/Sass-C6538C?style=for-the-badge&logo=sass&logoColor=white"/>
-  
 </div>
 
-#### En cours d'apprentissage :
-
-<div border="0" align="left" display="inline-block">
+<h4>En cours d'apprentissage :</h4>
+<div align="left">
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
+</div> 
 
-
-</div>
 
 <br>
 
@@ -57,7 +61,6 @@
   <img align="left" alt="Fabio R. Lopes Twitter" width="25px" src="https://img.icons8.com/3d-fluency/512/twitter-circled.png" />
 </a>
 
-
 | &nbsp;&nbsp;&nbsp; Prochainement mon portfolio : [fabiolopes.fr](https://www.fabiolopes.fr/)
 
 ----
@@ -67,15 +70,14 @@
 
 </div>
 
+
+
 <br>
 
+
+
 <!--
-  <a href="https://github.com/FabioDevCode">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FabioDevCode&layout=compact&langs_count=8&theme=vue-dark&border_radius=8px"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=FabioDevCode&theme=vue-dark&border_radius=8px"/> 
-</div>
-
-
 <div align="center" display="inline-block">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=FabioDevCode&custom_title=Commit%20/%20Jour&theme=vue&bg_color=22272E&hide_title=true&color=ADBAC7&hide_border=true" height="#22272E"/> 
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=FabioDevCode&custom_title=Commit%20/%20Jour&theme=vue&bg_color=22272E&hide_title=true&color=ADBAC7&hide_border=true" height="#22272E"/>
+</div>
 -->
