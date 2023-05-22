@@ -7,10 +7,14 @@
   
   <div align="left">
     <br>
-    <li> Développeur web</li>
-    <li> Polyvalent et véritable couteau suisse </li>
-    <li> Appétence pour le développement front-end </li>
-    <li> Cherche constamment à améliorer mes compétences </li>
+    <br>
+    <br>
+    <p>
+      Développeur web passionné et polyvalent avec qu’une grosse appétence pour le développement front-end.<br>
+      Je cherche constamment à monter en compétences afin d’acquérir de nouvelles connaissances.
+    </p>
+    <br>
+    <br>
   </div>
 </div>
 
@@ -29,10 +33,11 @@
   <img src="https://img.shields.io/badge/Sass-C6538C?style=for-the-badge&logo=sass&logoColor=white"/>
 </div>
 
-<h4>En cours d'apprentissage :</h4>
+<h4>En cours d'exploration :</h4>
 <div align="left">
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
+  <img src="https://img.shields.io/badge/C%23-5C2D91?style=for-the-badge&logo=c-sharp&logoColor=white"/>
 </div> 
 
 <br>
