@@ -14,10 +14,7 @@
   </div>
 </div>
 
-
 <br>
-<br>
-
 
 <h4>Stack technique :</h4>
 <div align="left">
@@ -38,23 +35,11 @@
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
 </div> 
 
-
-<br>
-<br>
-<br>
-
-
-<div align="center">
-  <img height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FabioDevCode&layout=compact&langs_count=8&theme=vue-dark&border_radius=8px"/>
-  <img height="190em" src="https://github-readme-stats.vercel.app/api?username=FabioDevCode&theme=vue-dark&border_radius=8px"/> 
-</div>
-
-
-<br>
 <br>
 
 
 ----
+
 
 <a href="https://linkedin.com/in/fabiodevcode/">
   <img align="left" alt="Fabio R. Lopes LinkedIn" width="25px" src="https://img.icons8.com/3d-fluency/512/linkedin.png" />
@@ -69,6 +54,20 @@
 | &nbsp;&nbsp;&nbsp; Prochainement mon portfolio : [fabiolopes.fr](https://www.fabiolopes.fr/)
 
 ----
+
+
+<br>
+
+
+<div align="center">
+  <img height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FabioDevCode&layout=compact&langs_count=8&theme=vue-dark&border_radius=8px"/>
+  <img height="190em" src="https://github-readme-stats.vercel.app/api?username=FabioDevCode&theme=vue-dark&border_radius=8px"/> 
+</div>
+
+
+<br>
+
+
 <div align="center" display="inline-block">
 
   ![Snake animation](https://github.com/FabioDevCode/FabioDevCode/blob/output/github-contribution-grid-snake.svg)
@@ -76,9 +75,7 @@
 </div>
 
 
-
 <br>
-
 
 
 <!--
