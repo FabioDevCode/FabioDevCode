@@ -12,7 +12,6 @@
       Je cherche constamment à monter en compétences afin d’acquérir de nouvelles connaissances.
     </p>
     <br>
-    <br>
   </div>
 </div>
 
