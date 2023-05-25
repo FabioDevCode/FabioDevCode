@@ -1,7 +1,5 @@
 ## Hey ! 👋 Je suis Fabio R. LOPES  !
 
-<br>
-
 <div align="center">
   <img align="right" height="160px" src="./assets/fabiodevcode_new-logo.png" alt="logo fabiolopes.fr">
   
