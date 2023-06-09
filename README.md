@@ -2,9 +2,9 @@
 
 <div align="center">
   <img align="right" height="160px" src="./assets/fabiodevcode_new-logo.png" alt="logo fabiolopes.fr">
-  
+  <br>
+
   <div align="left">
-    <br>
     <br>
     <br>
     <p>
@@ -12,10 +12,11 @@
       Je cherche constamment à monter en compétences afin d’acquérir de nouvelles connaissances.
     </p>
     <br>
+    <br>
   </div>
 </div>
 
-<br>
+<!-- <br> -->
 
 <h4>Stack technique :</h4>
 <div align="left">
@@ -23,7 +24,7 @@
   <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"/>
   <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=Express&logoColor=white"/>
   <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D"/>
-  <br>
+<!--   <br> -->
   <img src="https://img.shields.io/badge/jQuery-F2F2F2?style=for-the-badge&logo=jquery&logoColor=13609E"/>
   <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
   <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
