@@ -8,7 +8,8 @@
     <br>
     <br>
     <p>
-      Développeur web passionné et polyvalent avec qu’une grosse appétence pour le développement front-end.<br>
+      Développeur web passionné et polyvalent <br>
+      avec qu’une grosse appétence pour le développement front-end.<br>
       Je cherche constamment à monter en compétences afin d’acquérir de nouvelles connaissances.
     </p>
     <br>
