@@ -1,8 +1,10 @@
 ## Hey ! 👋 Je suis Fabio R. LOPES  !
 
 <div align="center">
-  <img align="right" height="160px" src="./assets/fabiodevcode_new-logo.png" alt="logo fabiolopes.fr">
   <br>
+  
+  <img align="right" height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FabioDevCode&layout=compact&langs_count=6&theme=vue-dark&border_radius=8px"/>
+  
 
   <div align="left">
     <br>
@@ -40,6 +42,8 @@
 <!--   <img src="https://img.shields.io/badge/C%23-5C2D91?style=for-the-badge&logo=c-sharp&logoColor=white"/> -->
 </div> 
 
+
+
 <br>
 
 
@@ -60,15 +64,12 @@
 
 ----
 
-
-<br>
-
-
+<!--
 <div align="center">
   <img height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FabioDevCode&layout=compact&langs_count=6&theme=vue-dark&border_radius=8px"/>
   <img height="190em" src="https://github-readme-stats.vercel.app/api?username=FabioDevCode&theme=vue-dark&border_radius=8px"/> 
 </div>
-
+-->
 
 <br>
 
