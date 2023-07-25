@@ -71,14 +71,8 @@
 </div>
 -->
 
-<br>
-
-
 
 <div align="center" display="inline-block">
-<!--
-  ![Snake animation](https://github.com/FabioDevCode/FabioDevCode/blob/output/github-contribution-grid-snake.svg)
--->
   
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
@@ -88,6 +82,9 @@
   
 </div>
 
+<!--
+  ![Snake animation](https://github.com/FabioDevCode/FabioDevCode/blob/output/github-contribution-grid-snake.svg)
+-->
 
 <br>
 
