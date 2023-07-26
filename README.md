@@ -19,7 +19,7 @@
   </div>
 </div>
 
-<!-- <br> -->
+<br>
 
 <h4>Stack technique :</h4>
 <div align="left">
