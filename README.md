@@ -3,18 +3,16 @@
 <div align="center">
   <br>
   
-  <img align="right" height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FabioDevCode&layout=compact&langs_count=6&theme=vue-dark&border_radius=8px"/>
+  <img align="right" height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FabioDevCode&layout=compact&langs_count=6&theme=vue-dark&border_radius=8px"/>
   
 
   <div align="left">
-    <br>
     <br>
     <p>
       Développeur web passionné et polyvalent <br>
       avec qu’une grosse appétence pour le développement front-end.<br>
       Je cherche constamment à monter en compétences afin d’acquérir de nouvelles connaissances.
     </p>
-    <br>
     <br>
   </div>
 </div>
