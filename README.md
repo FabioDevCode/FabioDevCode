@@ -2,6 +2,7 @@
 
 <div align="center">
   <br>
+  <br>
   
   <img align="right" height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FabioDevCode&layout=compact&langs_count=6&theme=vue-dark&border_radius=8px"/>
   
@@ -17,6 +18,7 @@
   </div>
 </div>
 
+<br>
 <br>
 
 <h4>Stack technique :</h4>
