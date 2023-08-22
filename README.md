@@ -40,6 +40,10 @@
 <h4>Intérêt et exploration prochaine :</h4>
 <div align="left">
   <img src="https://img.shields.io/badge/Docker-086DD7?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white"/>
+
+  <br>
+ 
   <img src="https://img.shields.io/badge/Nuxt.js-0C0C0D?style=for-the-badge&logo=nuxt.js&logoColor=4FC08D"/>
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
   <img src="https://img.shields.io/badge/C%23-5C2D91?style=for-the-badge&logo=c-sharp&logoColor=white"/>
