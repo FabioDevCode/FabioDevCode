@@ -10,7 +10,7 @@
   <div align="left" > 
   <p>Développeur web passionné et polyvalent</p>
   <p>Avec qu’une grosse appétence pour le développement front-end.</p>
-  <p>Je cherche constamment à monter en compétences afin d’acquérir de nouvelles connaissances.</p>
+  <p>Je cherche constamment à monter en compétences.</p>
   </div>
   
 </div>
