@@ -13,9 +13,10 @@
      Je cherche constamment à monter en compétences.
   </div>
   
+  <br>
 </div>
 
-<br>
+
 <br>
 <br>
 <br>
