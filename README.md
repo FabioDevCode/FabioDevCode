@@ -8,14 +8,14 @@
   <img align="left" height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FabioDevCode&layout=compact&langs_count=6&theme=vue-dark&border_radius=8px"/>
   
   <div align="left" > 
-  <p>Développeur web passionné et polyvalent</p>
-  <p>Avec qu’une grosse appétence pour le développement front-end.</p>
-  <p>Je cherche constamment à monter en compétences.</p>
+     Développeur web passionné et polyvalent.<br>
+     Avec qu’une grosse appétence pour le développement front-end.<br>
+     Je cherche constamment à monter en compétences.
   </div>
   
 </div>
 
-
+<br>
 <br>
 <br>
 <br>
