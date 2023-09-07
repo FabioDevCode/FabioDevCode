@@ -48,7 +48,7 @@
   <img src="https://img.shields.io/badge/Nuxt.js-0C0C0D?style=for-the-badge&logo=nuxt.js&logoColor=4FC08D"/>
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
   <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C%23-5C2D91?style=for-the-badge&logo=c-sharp&logoColor=white"/>
+<!--   <img src="https://img.shields.io/badge/C%23-5C2D91?style=for-the-badge&logo=c-sharp&logoColor=white"/> -->
 </div> 
 
 <br>
