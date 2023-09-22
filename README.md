@@ -32,11 +32,12 @@
 <!-- A propos -->
  ## A propos
 
- <br>
+<img height="250em" align="right" src="./assets/fabiodevcode_new-logo.png" />
 
-<div align="center">
+<br>
+<br>
 
-  <ul align="left"> 
+<ul align="left"> 
     <li>
       Je suis un développeur web passionné.
     </li>
@@ -48,13 +49,9 @@
     <li>
       J'ai une grosse appétence pour le développement front-end.
     </li>  
-  </ul>
+</ul>
 
-
-
-</div>
-
-
+<br>
 <br>
 
 <!-- Stack -->
@@ -95,6 +92,15 @@
 
 ---
 
+
+<div align="center" display="inline-block">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/FabioDevCode/FabioDevCode/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/FabioDevCode/FabioDevCode/output/github-contribution-grid-snake-dark.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/FabioDevCode/FabioDevCode/output/github-contribution-grid-snake.svg">
+  </picture>
+</div>
+
 <br>
 
 <div align="center" display="inline-block">
@@ -104,17 +110,10 @@
 
 <br>
 
-<div align="center" display="inline-block">
-  
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/FabioDevCode/FabioDevCode/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/FabioDevCode/FabioDevCode/output/github-contribution-grid-snake-dark.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/FabioDevCode/FabioDevCode/output/github-contribution-grid-snake.svg">
-  </picture>
-  
-</div>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=FabioDevCode&custom_title=Commit%20/%20Jour&theme=vue&bg_color=22272E&hide_title=true&color=ADBAC7&hide_border=true" alt="FabioDevCode Commits Stats" />
 
-<br>
+
+
 
 
 <!--
