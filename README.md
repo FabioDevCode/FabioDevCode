@@ -92,6 +92,18 @@
 
 ---
 
+<br>
+
+<div align="center" display="inline-block">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FabioDevCode&layout=compact&langs_count=6&theme=vue-dark&border_radius=8px"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=FabioDevCode&theme=vue-dark&border_radius=8px&rank_icon=github"/> 
+</div>
+
+<br>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=FabioDevCode&custom_title=Commit%20/%20Jour&theme=vue&bg_color=22272E&hide_title=true&color=ADBAC7&hide_border=true" alt="FabioDevCode Commits Stats" />
+
+<br>
 
 <div align="center" display="inline-block">
   <picture>
@@ -103,14 +115,8 @@
 
 <br>
 
-<div align="center" display="inline-block">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FabioDevCode&layout=compact&langs_count=6&theme=vue-dark&border_radius=8px"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=FabioDevCode&theme=vue-dark&border_radius=8px&rank_icon=github"/> 
-</div>
 
-<br>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=FabioDevCode&custom_title=Commit%20/%20Jour&theme=vue&bg_color=22272E&hide_title=true&color=ADBAC7&hide_border=true" alt="FabioDevCode Commits Stats" />
 
 
 
