@@ -73,8 +73,8 @@
   <img src="https://img.shields.io/badge/Sass-C6538C?style=for-the-badge&logo=sass&logoColor=white"/>
 </div>
 
-##
 
+<!--  
 <h5>En cours d'exploration :</h5>
 <div align="left">
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
@@ -87,12 +87,20 @@
   <img src="https://img.shields.io/badge/Nuxt.js-0C0C0D?style=for-the-badge&logo=nuxt.js&logoColor=4FC08D"/>
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
   <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
-<!--   <img src="https://img.shields.io/badge/C%23-5C2D91?style=for-the-badge&logo=c-sharp&logoColor=white"/> -->
+   <img src="https://img.shields.io/badge/C%23-5C2D91?style=for-the-badge&logo=c-sharp&logoColor=white"/>
 </div> 
+-->
 
 <br>
 
 ---
+
+<br>
+
+<div align="center" display="inline-block">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FabioDevCode&layout=compact&langs_count=6&theme=vue-dark&border_radius=8px"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=FabioDevCode&theme=vue-dark&border_radius=8px"/> 
+</div>
 
 <br>
 
@@ -108,12 +116,6 @@
 
 <br>
 
-<div align="center" display="inline-block">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FabioDevCode&layout=compact&langs_count=6&theme=vue-dark&border_radius=8px"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=FabioDevCode&theme=vue-dark&border_radius=8px"/> 
-</div>
-
-<br>
 
 <!--
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=FabioDevCode&layout=compact&langs_count=6&theme=vue-dark&border_radius=8px" alt="Fabio Stats"/>
