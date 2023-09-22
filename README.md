@@ -1,47 +1,86 @@
-## Hey ! 👋 Je suis Fabio R. LOPES  !
+<!-- Intro  -->
+<h3 align="center">
+   <samp>&gt; Hey ! 👋 Je suis
+           <b><a target="_blank" href="https://fabiolopes.fr">Fabio R LOPES !</a></b>
+   </samp>
+</h3>
 
+<br>
  
+<p align="center"> 
+  <samp>&gt;
+    Je suis développeur web full stack Node.js et Vue.js à <b>Bordeaux</b>
+  </samp>
+</p>
+
+<br>
 
 <div align="center">
-  <br>
+  <a href="https://linkedin.com/in/fabiodevcode/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Fabio R. Lopes LinkedIn"/>
+  </a>
+  <a href="https://www.instagram.com/fabiodevcode/">
+    <img src="https://img.shields.io/badge/Instagram-fe4164?style=for-the-badge&logo=instagram&logoColor=white" alt="Fabio R. Lopes Instagram" />
+  </a>
+  <a href="https://twitter.com/FabioDevCode">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Fabio R. Lopes Twitter"  />
+  </a>
+</div>
 
-  <img align="left" height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FabioDevCode&layout=compact&langs_count=6&theme=vue-dark&border_radius=8px"/>
-  
-  <div align="left" > 
-     Développeur web passionné et polyvalent.<br>
-     Avec qu’une grosse appétence pour le développement front-end.<br>
-     Je cherche constamment à monter en compétences.
-  </div>
-  
-  <br>
-  <br>
-  <br>
-  <br>
-  <br>
+<br>
+
+<!-- A propos -->
+ ## A propos
+
+ <br>
+
+<div align="center">
+
+  <ul align="left"> 
+    <li>
+      Je suis un développeur web passionné.
+    </li>
+    <br>
+    <li>
+      Je cherche constamment à monter en compétences.
+    </li>
+    <br>
+    <li>
+      J'ai une grosse appétence pour le développement front-end.
+    </li>  
+  </ul>
+
+
 
 </div>
 
-----
 
-<h4>Stack technique :</h4>
+<br>
+
+<!-- Stack -->
+## Stack technique
+
+<br>
+
 <div align="left">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
   <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"/>
   <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=Express&logoColor=white"/>
   <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D"/>
-<!--   <br> -->
   <img src="https://img.shields.io/badge/jQuery-F2F2F2?style=for-the-badge&logo=jquery&logoColor=13609E"/>
   <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
   <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
   <img src="https://img.shields.io/badge/Sass-C6538C?style=for-the-badge&logo=sass&logoColor=white"/>
 </div>
 
-<h4>En cours d'exploration :</h4>
+##
+
+<h5>En cours d'exploration :</h5>
 <div align="left">
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
 </div> 
 
-<h4>Intérêt et exploration future :</h4>
+<h5>Intérêt et exploration future :</h5>
 <div align="left">
   <img src="https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white"/>
   <img src="https://img.shields.io/badge/Docker-086DD7?style=for-the-badge&logo=docker&logoColor=white"/>
@@ -53,30 +92,9 @@
 
 <br>
 
-----
+---
 
-
-<a href="https://linkedin.com/in/fabiodevcode/">
-  <img align="left" alt="Fabio R. Lopes LinkedIn" width="25px" src="https://img.icons8.com/3d-fluency/512/linkedin.png" />
-</a>
-<a href="https://www.instagram.com/fabiodevcode/">
-  <img align="left" alt="Fabio R. Lopes Instagram" width="25px" src="https://img.icons8.com/3d-fluency/512/instagram-new.png" />
-</a>
-<a href="https://twitter.com/FabioDevCode">
-  <img align="left" alt="Fabio R. Lopes Twitter" width="25px" src="https://img.icons8.com/3d-fluency/512/twitter-circled.png" />
-</a>
-
-| &nbsp;&nbsp;&nbsp; Prochainement mon portfolio : [fabiolopes.fr](https://www.fabiolopes.fr/)
-
-----
-
-<!--
-<div align="center">
-  <img height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FabioDevCode&layout=compact&langs_count=6&theme=vue-dark&border_radius=8px"/>
-  <img height="190em" src="https://github-readme-stats.vercel.app/api?username=FabioDevCode&theme=vue-dark&border_radius=8px"/> 
-</div>
--->
-
+<br>
 
 <div align="center" display="inline-block">
   
@@ -88,15 +106,17 @@
   
 </div>
 
-<!--
-  ![Snake animation](https://github.com/FabioDevCode/FabioDevCode/blob/output/github-contribution-grid-snake.svg)
--->
+<br>
+
+<div align="center" display="inline-block">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FabioDevCode&layout=compact&langs_count=6&theme=vue-dark&border_radius=8px"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=FabioDevCode&theme=vue-dark&border_radius=8px"/> 
+</div>
 
 <br>
 
-
 <!--
-<div align="center" display="inline-block">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=FabioDevCode&custom_title=Commit%20/%20Jour&theme=vue&bg_color=22272E&hide_title=true&color=ADBAC7&hide_border=true" height="#22272E"/>
-</div>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=FabioDevCode&layout=compact&langs_count=6&theme=vue-dark&border_radius=8px" alt="Fabio Stats"/>
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=FabioDevCode&custom_title=Commit%20/%20Jour&theme=vue&bg_color=22272E&hide_title=true&color=ADBAC7&hide_border=true" />
 -->
+
