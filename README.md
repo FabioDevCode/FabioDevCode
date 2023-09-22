@@ -32,7 +32,7 @@
 <!-- A propos -->
  ## A propos
 
-<img height="250em" align="right" src="./assets/fabiodevcode_new-logo.png" />
+<img height="200em" align="right" src="./assets/fabiodevcode_new-logo.png" />
 
 <br>
 <br>
