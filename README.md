@@ -10,7 +10,7 @@
  
 <p align="center"> 
   <samp>&gt;
-    Je suis développeur web full stack Node.js et Vue.js à <b>Bordeaux</b>
+    Je suis développeur web Node.js et Vue.js à <b>Bordeaux</b>
   </samp>
 </p>
 
