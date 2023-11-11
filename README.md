@@ -1,6 +1,13 @@
 <br>
+
+
 <!-- Intro  -->
 <h3 align="center">
+   <img height="100em" align="center" src="./assets/fabiodevcode_new-logo.png" />
+
+   <br>
+   <br>
+   
    <samp>&gt; Hey ! 👋 Je suis
            <b><a target="_blank" href="https://fabiolopes.fr">Fabio R LOPES !</a></b>
    </samp>
@@ -33,24 +40,21 @@
 <!-- A propos -->
  ## A propos
 
-<img height="200em" align="right" src="./assets/fabiodevcode_new-logo.png" />
-
-<br>
 <br>
 
-<ul align="left"> 
-    <li>
+<div align="center"> 
+    <p>
       Je suis un développeur web passionné.
-    </li>
+    </p>
     <br>
-    <li>
+    <p>
       Je cherche constamment à monter en compétences.
-    </li>
+    </p>
     <br>
-    <li>
+    <p>
       J'ai une grosse appétence pour le développement front-end.
-    </li>  
-</ul>
+    </p> 
+</div>
 
 <br>
 <br>
@@ -60,7 +64,7 @@
 
 <br>
 
-<div align="left">
+<div align="center">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
   <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"/>
   <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=Express&logoColor=white"/>
@@ -100,9 +104,11 @@
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=FabioDevCode&theme=vue-dark&border_radius=8px&rank_icon=github"/> 
 </div>
 
+<!--  
 <br>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=FabioDevCode&custom_title=Commit%20/%20Jour&theme=vue&bg_color=22272E&hide_title=true&color=ADBAC7&hide_border=true" alt="FabioDevCode Commits Stats" />
+-->
 
 <br>
 
