@@ -36,31 +36,14 @@
 </div>
 
 <br>
-
-<!-- A propos -->
- ## A propos
-
-<br>
-
-<div align="center"> 
-    <p>
-      Je suis un développeur web passionné.
-    </p>
-    <br>
-    <p>
-      Je cherche constamment à monter en compétences.
-    </p>
-    <br>
-    <p>
-      J'ai une grosse appétence pour le développement front-end.
-    </p> 
-</div>
-
-<br>
 <br>
 
 <!-- Stack -->
-## Stack technique
+##
+
+<div align="center">
+   <h3 align="center" >Stack Technique</h3>
+</div>
 
 <br>
 
