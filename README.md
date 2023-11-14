@@ -1,16 +1,17 @@
-<br>
+<div align="center">
+   <img height="100em" align="center" src="./assets/fabiodevcode_new-logo.png" />
+</div>
 
+<br>
+   
 <!-- Intro  -->
 <h3 align="center">
-   <img height="100em" align="center" src="./assets/fabiodevcode_new-logo.png" />
-
-   <br>
-   <br>
-   
    <samp>&gt; Hey ! 👋 Je suis
            <b><a target="_blank" href="https://fabiolopes.fr">Fabio R LOPES !</a></b>
    </samp>
 </h3>
+
+<br>
  
 <p align="center"> 
   <samp>&gt;
