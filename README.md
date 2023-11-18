@@ -21,35 +21,12 @@
 
 <br>
 
-<div align="center">
-  <a href="https://linkedin.com/in/fabiodevcode/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Fabio R. Lopes LinkedIn"/>
-  </a>
-  <a href="https://www.instagram.com/fabiodevcode/">
-    <img src="https://img.shields.io/badge/Instagram-fe4164?style=for-the-badge&logo=instagram&logoColor=white" alt="Fabio R. Lopes Instagram" />
-  </a>
-  <a href="https://twitter.com/FabioDevCode">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Fabio R. Lopes Twitter"  />
-  </a>
-</div>
-
-<br>
-<br>
-
 <div align="center" display="inline-block">
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FabioDevCode&layout=compact&langs_count=6&theme=vue-dark&border_radius=8px"/>
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=FabioDevCode&theme=vue-dark&border_radius=8px&rank_icon=github"/> 
 </div>
 
 <br>
-
-<!-- Stack -->
-##
-
-<div align="center">
-   <h3 align="center" >Stack Technique</h3>
-</div>
-
 <br>
 
 <div align="center">
@@ -83,10 +60,6 @@
 </div> 
 -->
 
-<br>
-
----
-
 <!--  
 <br>
 
@@ -105,17 +78,7 @@
 
 <br>
 
-
-
-
-
-
-
-
-
-
 <!--
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=FabioDevCode&layout=compact&langs_count=6&theme=vue-dark&border_radius=8px" alt="Fabio Stats"/>
   <img src="https://github-readme-activity-graph.cyclic.app/graph?username=FabioDevCode&custom_title=Commit%20/%20Jour&theme=vue&bg_color=22272E&hide_title=true&color=ADBAC7&hide_border=true" />
 -->
-
