@@ -3,17 +3,16 @@
 </div>
 
 <br>
-   
+
 <!-- Intro  -->
 <h3 align="center">
-   <samp>&gt; Hey ! 👋 Je suis
-           <b><a target="_blank" href="https://fabiolopes.fr">Fabio R LOPES !</a></b>
+   <samp>&gt; Hey ! 👋 Je suis <b>Fabio R LOPES !</b>
    </samp>
 </h3>
 
 <br>
- 
-<p align="center"> 
+
+<p align="center">
   <samp>&gt;
     Je suis développeur web Node.js et Vue.js à <b>Bordeaux</b>
   </samp>
@@ -30,7 +29,7 @@
 <br>
 
 <div align="center">
-   <a href="https://github.com/FabioDevCode">
+   <!-- <a href="https://github.com/FabioDevCode"> -->
       <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
       <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"/>
       <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=Express&logoColor=white"/>
@@ -39,7 +38,7 @@
       <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
       <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
       <img src="https://img.shields.io/badge/Sass-C6538C?style=for-the-badge&logo=sass&logoColor=white"/>
-   </a>
+   <!-- </a> -->
 </div>
 
 
