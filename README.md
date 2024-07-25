@@ -1,20 +1,18 @@
 <div align="center">
-   <img height="100em" align="center" src="./assets/fabiodevcode_new-logo.png" />
+   <img width="100%" align="center" src="./assets/fabiodevcode_logo.png" />
 </div>
 
 <br>
 
 <!-- Intro  -->
 <h3 align="center">
-   <samp>&gt; Hey ! 👋 Je suis <b>Fabio R LOPES !</b>
+   <samp>&gt; Hey ! 👋  Je suis <b>Fabio R LOPES !</b>
    </samp>
 </h3>
 
-<br>
-
 <p align="center">
   <samp>&gt;
-    Je suis développeur web Node.js et Vue.js à <b>Bordeaux</b>
+    Je suis développeur web Javascript, Node.js et Vue.js à <b>Bordeaux</b>
   </samp>
 </p>
 
@@ -41,12 +39,11 @@
    <!-- </a> -->
 </div>
 
-
-<!--  
+<!--
 <h5>En cours d'exploration :</h5>
 <div align="left">
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
-</div> 
+</div>
 
 <h5>Intérêt et exploration future :</h5>
 <div align="left">
@@ -56,10 +53,10 @@
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
   <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
    <img src="https://img.shields.io/badge/C%23-5C2D91?style=for-the-badge&logo=c-sharp&logoColor=white"/>
-</div> 
+</div>
 -->
 
-<!--  
+<!--
 <br>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=FabioDevCode&custom_title=Commit%20/%20Jour&theme=vue&bg_color=22272E&hide_title=true&color=ADBAC7&hide_border=true" alt="FabioDevCode Commits Stats" />
