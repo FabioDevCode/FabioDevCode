@@ -1,5 +1,5 @@
 <div align="center">
-   <img width="100%" align="center" src="./assets/fabiodevcode_logo.png" />
+   <img width="100%" align="center" src="./assets/fabiodevcode_banner.png" />
 </div>
 
 <br>
