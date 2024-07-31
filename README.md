@@ -24,7 +24,7 @@
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=FabioDevCode&theme=vue-dark&border_radius=8px&rank_icon=github"/> 
 </div>
 
-<br>
+
 <br>
 
 
@@ -111,12 +111,9 @@
 <br>
 
 
+<!--
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=FabioDevCode&custom_title=Commit%20/%20Jour&theme=vue&bg_color=22272E&hide_title=true&color=ADBAC7&hide_border=true" alt="FabioDevCode Commits Stats" />
 
-
 <br>
-
-
-<!--
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=FabioDevCode&layout=compact&langs_count=6&theme=vue-dark&border_radius=8px" alt="Fabio Stats"/>
 -->
