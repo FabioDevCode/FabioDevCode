@@ -1,6 +1,6 @@
 <div align="center">
-   <!-- <img width="100%" align="center" src="./assets/fabiodevcode_banner.png" /> -->
-   <img width="100%" align="center" src="./assets/fabiodevcode-ascii-art.png" />
+   <img width="100%" align="center" src="./assets/fabiodevcode_banner.png" />
+   <!-- <img width="100%" align="center" src="./assets/fabiodevcode-ascii-art.png" /> -->
 </div>
 
 <br>
