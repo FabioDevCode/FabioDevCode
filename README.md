@@ -1,5 +1,6 @@
 <div align="center">
-   <img width="100%" align="center" src="./assets/fabiodevcode_banner.png" />
+   <!-- <img width="100%" align="center" src="./assets/fabiodevcode_banner.png" /> -->
+   <img width="100%" align="center" src="./assets/fabiodevcode-ascii-art.png" />
 </div>
 
 <br>
@@ -24,9 +25,7 @@
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=FabioDevCode&theme=vue-dark&border_radius=8px&rank_icon=github"/> 
 </div>
 
-
 <br>
-
 
 <h3 align="center">
    Technologies :
@@ -50,7 +49,6 @@
 
 </div>
 
-
 <h3 align="center">
    Outils :
 </h3>
@@ -68,9 +66,7 @@
          
 </div>
 
-
 ##
-
 
 <h3 align="center">
    Intérêt pour :
@@ -99,9 +95,7 @@
       
 </div>
 
-
 ##
-
 
 <div align="center" display="inline-block">
   <picture>
@@ -111,9 +105,7 @@
   </picture>
 </div>
 
-
 <br>
-
 
 <!--
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=FabioDevCode&custom_title=Commit%20/%20Jour&theme=vue&bg_color=22272E&hide_title=true&color=ADBAC7&hide_border=true" alt="FabioDevCode Commits Stats" />
