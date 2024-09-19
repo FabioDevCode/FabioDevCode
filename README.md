@@ -1,14 +1,6 @@
-<div align="center">
-   <img width="100%" align="center" src="./assets/fabiodevcode_banner.png" />
-</div>
-
-<br>
-
 ## Hey ! 👋  Je suis <b>Fabio R LOPES ! Dévleoppeur web Javasciprt, Node.js & Vue.js
 
-
 Constamment motivé par la découverte de nouvelles technologies et méthodes de travail, je cherche toujours à acquérir de nouvelles compétences. Basé à Bordeaux, j'ai une expertise en JavaScript, Node.js et Vue.js
-
 
 <div style="display: inline_block"><br>
       <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
