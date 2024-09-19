@@ -1,4 +1,4 @@
-## Hey ! 👋  Je suis <b>Fabio R LOPES ! Dévleoppeur web Javasciprt, Node.js & Vue.js
+## Hey ! 👋  Je suis <b>Fabio R LOPES ! Développeur web Javasciprt, Node.js & Vue.js
 
 Constamment motivé par la découverte de nouvelles technologies et méthodes de travail, je cherche toujours à acquérir de nouvelles compétences. Basé à Bordeaux, j'ai une expertise en JavaScript, Node.js et Vue.js
 
