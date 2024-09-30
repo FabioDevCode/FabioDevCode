@@ -1,4 +1,4 @@
-## Hey ! 👋  Je suis <b>Fabio R LOPES ! Développeur web Javasciprt, Node.js & Vue.js
+## Hey ! 👋  Je suis <b>Fabio R. LOPES ! Développeur web Javasciprt, Node.js & Vue.js
 
 <br>
 
