@@ -1,4 +1,4 @@
-## Je suis <b>Fabio R. LOPES ! Développeur Web Full Stack - Javasciprt, Node.js & Vue.js
+## Fabio R. LOPES - Développeur Web Full Stack - Javasciprt, Node.js & Vue.js
 
 <br>
 
