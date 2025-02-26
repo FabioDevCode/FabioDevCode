@@ -6,7 +6,7 @@
 Constamment motivé par la découverte de nouvelles technologies et méthodes de travail, je cherche toujours à acquérir de nouvelles compétences. Basé à Bordeaux, j'ai une expertise en JavaScript, Node.js et Vue.js
 
 
-<div style="display: inline_block"><br>
+<div style="display: inline-block"><br>
       <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
       <img src="https://img.shields.io/badge/Node.JS-43853D?style=for-the-badge&logo=node.js&logoColor=white"/>
       <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB"/>
@@ -25,20 +25,22 @@ Constamment motivé par la découverte de nouvelles technologies et méthodes de
       <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
       <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
       <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white"/> 
+
 -->
 </div>
 
 <br>
-<br>
 
-<div style="display: inline_block">
+<div style="display: inline-block">
       <img height="160rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FabioDevCode&layout=compact&langs_count=6&theme=vue-dark&border_radius=8px"/>
       <img height="160rem" src="https://github-readme-stats.vercel.app/api?username=FabioDevCode&theme=vue-dark&border_radius=8px&rank_icon=github"/>
 </div>
 
-##
+<br>
 
-<div align="center" display="inline-block">
+---
+
+<div display="inline-block">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/FabioDevCode/FabioDevCode/output/github-contribution-grid-snake-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/FabioDevCode/FabioDevCode/output/github-contribution-grid-snake-dark.svg">
