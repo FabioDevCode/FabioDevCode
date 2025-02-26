@@ -1,4 +1,5 @@
-## Fabio R. LOPES - Développeur Web FullStack - Javasciprt, Node.js & Vue.js
+# Fabio R. LOPES
+### Développeur Web FullStack - Javasciprt, Node.js & Vue.js
 
 <br>
 
@@ -30,10 +31,10 @@ Constamment motivé par la découverte de nouvelles technologies et méthodes de
 <br>
 <br>
 
-<img height="160rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FabioDevCode&layout=compact&langs_count=6&theme=vue-dark&border_radius=8px"/>
-<img height="160rem" src="https://github-readme-stats.vercel.app/api?username=FabioDevCode&theme=vue-dark&border_radius=8px&rank_icon=github"/>
-
-
+<div style="display: inline_block">
+      <img height="160rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FabioDevCode&layout=compact&langs_count=6&theme=vue-dark&border_radius=8px"/>
+      <img height="160rem" src="https://github-readme-stats.vercel.app/api?username=FabioDevCode&theme=vue-dark&border_radius=8px&rank_icon=github"/>
+</div>
 
 ##
 
