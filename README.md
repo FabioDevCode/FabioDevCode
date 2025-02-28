@@ -5,7 +5,9 @@
 
 Constamment motivé par la découverte de nouvelles technologies et méthodes de travail, je cherche toujours à acquérir de nouvelles compétences. Basé à Bordeaux, j'ai une expertise en JavaScript, Node.js et Vue.js
 
+<br>
 
+**Ce que je connais :**
 <div style="display: inline-block"><br>
       <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
       <img src="https://img.shields.io/badge/Node.JS-43853D?style=for-the-badge&logo=node.js&logoColor=white"/>
@@ -13,20 +15,22 @@ Constamment motivé par la découverte de nouvelles technologies et méthodes de
       <img src="https://img.shields.io/badge/Vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D"/>
       <img src="https://img.shields.io/badge/jQuery-F2F2F2?style=for-the-badge&logo=jquery&logoColor=13609E"/>
       <img src="https://img.shields.io/badge/handlebars-F0772B?style=for-the-badge&logo=handlebarsdotjs&logoColor=483a2d"/>
-<!--       <img src="https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white"/>       -->
+      <img src="https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white"/>
       <img src="https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=Sequelize&logoColor=white"/>
       <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white"/>
       <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white"/>
-      <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white"/> 
-      
+      <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white"/>
+</div>
 
-<!--      
-      <img src="https://img.shields.io/badge/Sass-C6538C?style=for-the-badge&logo=sass&logoColor=white"/>
-      <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-      <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-      <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white"/> 
+<br>
 
--->
+**Ce que j'apprends :** 
+<div style="display: inline-block"><br>
+      <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" />
+      <img src="https://img.shields.io/badge/fastify-%23000000.svg?style=for-the-badge&logo=fastify&logoColor=white" />
+      <img src="https://img.shields.io/badge/Prisma-16A394?style=for-the-badge&logo=Prisma&logoColor=white" />
+      <img src="https://img.shields.io/badge/Nuxt.js-10172A?style=for-the-badge&logo=nuxt&logoColor=#00DC82" />
+
 </div>
 
 
@@ -40,8 +44,6 @@ Constamment motivé par la découverte de nouvelles technologies et méthodes de
 </div>
 
 <br>
-
----
 
 <div display="inline-block">
   <picture>
