@@ -7,7 +7,7 @@ Constamment motivé par la découverte de nouvelles technologies et méthodes de
 
 <br>
 
-**Ce que je connais :**
+**Ce que je connais ou :**
 <div style="display: inline-block"><br>
       <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
       <img src="https://img.shields.io/badge/Node.JS-43853D?style=for-the-badge&logo=node.js&logoColor=white"/>
@@ -30,6 +30,7 @@ Constamment motivé par la découverte de nouvelles technologies et méthodes de
       <img src="https://img.shields.io/badge/fastify-%23000000.svg?style=for-the-badge&logo=fastify&logoColor=white" />
       <img src="https://img.shields.io/badge/Prisma-16A394?style=for-the-badge&logo=Prisma&logoColor=white" />
       <img src="https://img.shields.io/badge/Nuxt.js-10172A?style=for-the-badge&logo=nuxt&logoColor=#00DC82" />
+      <img src="https://img.shields.io/badge/tailwindcss-030712?style=for-the-badge&logo=tailwind-css&logoColor=#00BCFF" />
 
 </div>
 
