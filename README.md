@@ -13,7 +13,6 @@ Constamment motivé par la découverte de nouvelles technologies et méthodes de
 </div>
 
 <br>
-<br>
 
 **Ce que je connais :**
 <div style="display: inline-block"><br>
