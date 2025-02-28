@@ -7,6 +7,14 @@ Constamment motivé par la découverte de nouvelles technologies et méthodes de
 
 <br>
 
+<div style="display: inline-block">
+      <img height="160rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FabioDevCode&layout=compact&langs_count=6&theme=vue-dark&border_radius=8px"/>
+      <img height="160rem" src="https://github-readme-stats.vercel.app/api?username=FabioDevCode&theme=vue-dark&border_radius=8px&rank_icon=github"/>
+</div>
+
+<br>
+<br>
+
 **Ce que je connais ou :**
 <div style="display: inline-block"><br>
       <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
@@ -36,15 +44,9 @@ Constamment motivé par la découverte de nouvelles technologies et méthodes de
 
 
 <br>
-<br>
 
 
-<div style="display: inline-block">
-      <img height="160rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FabioDevCode&layout=compact&langs_count=6&theme=vue-dark&border_radius=8px"/>
-      <img height="160rem" src="https://github-readme-stats.vercel.app/api?username=FabioDevCode&theme=vue-dark&border_radius=8px&rank_icon=github"/>
-</div>
-
-<br>
+##
 
 <div display="inline-block">
   <picture>
@@ -60,5 +62,6 @@ Constamment motivé par la découverte de nouvelles technologies et méthodes de
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=FabioDevCode&custom_title=Commit%20/%20Jour&theme=vue&bg_color=22272E&hide_title=true&color=ADBAC7&hide_border=true" alt="FabioDevCode Commits Stats" />
 
 <br>
+
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=FabioDevCode&layout=compact&langs_count=6&theme=vue-dark&border_radius=8px" alt="Fabio Stats"/>
 -->
