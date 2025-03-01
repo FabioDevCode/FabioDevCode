@@ -22,7 +22,6 @@ Constamment motivé par la découverte de nouvelles technologies et méthodes de
       <img src="https://img.shields.io/badge/Vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D"/>
       <img src="https://img.shields.io/badge/jQuery-F2F2F2?style=for-the-badge&logo=jquery&logoColor=13609E"/>
       <img src="https://img.shields.io/badge/handlebars-F0772B?style=for-the-badge&logo=handlebarsdotjs&logoColor=483a2d"/>
-      <img src="https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white"/>
       <img src="https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=Sequelize&logoColor=white"/>
       <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white"/>
       <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white"/>
