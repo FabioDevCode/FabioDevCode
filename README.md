@@ -41,9 +41,6 @@ Constamment motivé par la découverte de nouvelles technologies et méthodes de
 </div>
 
 
-<br>
-
-
 ##
 
 <div display="inline-block">
