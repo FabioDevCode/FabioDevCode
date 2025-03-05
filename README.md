@@ -37,7 +37,7 @@ Constamment motivé par la découverte de nouvelles technologies et méthodes de
       <img src="https://img.shields.io/badge/Prisma-16A394?style=for-the-badge&logo=Prisma&logoColor=white" />
       <img src="https://img.shields.io/badge/Nuxt.js-10172A?style=for-the-badge&logo=nuxt&logoColor=#00DC82" />
       <img src="https://img.shields.io/badge/tailwindcss-030712?style=for-the-badge&logo=tailwind-css&logoColor=#00BCFF" />
-
+      <img src="https://img.shields.io/badge/docker-1D63ED?style=for-the-badge&logo=docker&logoColor=white" />
 </div>
 
 
