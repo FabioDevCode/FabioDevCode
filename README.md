@@ -6,13 +6,6 @@ Constamment motivé par la découverte de nouvelles technologies et méthodes de
 
 <br>
 
-<div style="display: inline-block">
-      <img height="160rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FabioDevCode&layout=compact&langs_count=6&theme=vue-dark&border_radius=8px"/>
-      <img height="160rem" src="https://github-readme-stats.vercel.app/api?username=FabioDevCode&theme=vue-dark&border_radius=8px&rank_icon=github"/>
-</div>
-
-<br>
-
 **Ce que je connais :**
 <div style="display: inline-block">
       <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
@@ -39,6 +32,12 @@ Constamment motivé par la découverte de nouvelles technologies et méthodes de
       <img src="https://img.shields.io/badge/docker-1D63ED?style=for-the-badge&logo=docker&logoColor=white" />
 </div>
 
+<br>
+
+<div style="display: inline-block">
+      <img height="160rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FabioDevCode&layout=compact&langs_count=6&theme=vue-dark&border_radius=8px"/>
+      <img height="160rem" src="https://github-readme-stats.vercel.app/api?username=FabioDevCode&theme=vue-dark&border_radius=8px&rank_icon=github"/>
+</div>
 
 ##
 
