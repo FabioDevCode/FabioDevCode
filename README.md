@@ -34,8 +34,9 @@ Constamment motivé par la découverte de nouvelles technologies et méthodes de
 
 <br>
 
-<img align="" width="42.4%" src="https://github-readme-stats-fork-alpha.vercel.app/api/top-langs/?username=FabioDevCode&hide_title=true&hide_border=true&layout=compact&langs_count=6&border_radius=0&title_color=41b883&icon_color=41b883&text_color=959598&bg_color=9ca3af00" /><img align="" width="57.5%" src="https://github-readme-stats-fork-alpha.vercel.app/api?username=FabioDevCode&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&line_height=21&border_radius=0&title_color=41b883&icon_color=41b883&text_color=959598&bg_color=9ca3af00" />
-
+<div style="display: inline-block" align="center">
+      <img height="180rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FabioDevCode&layout=compact&langs_count=6&theme=vue-dark&border_radius=8px&hide_border=true&hide_title=true&bg_color=FFFFFF00"/><img height="180rem" src="https://github-readme-stats.vercel.app/api?username=FabioDevCode&theme=vue-dark&border_radius=8px&rank_icon=github&hide_border=true&hide_title=true&bg_color=FFFFFF00&show_icons=true&include_all_commits=true"/>
+</div>
 
 
 <div display="inline-block" align="center">
@@ -48,6 +49,7 @@ Constamment motivé par la découverte de nouvelles technologies et méthodes de
 
 
 <!--
+
 <div style="display: inline-block">
       <img height="160rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FabioDevCode&layout=compact&langs_count=6&theme=vue-dark&border_radius=8px"/>
       <img height="160rem" src="https://github-readme-stats.vercel.app/api?username=FabioDevCode&theme=vue-dark&border_radius=8px&rank_icon=github"/>
