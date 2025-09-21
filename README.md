@@ -21,7 +21,7 @@ Constamment motivé par la découverte de nouvelles technologies et méthodes de
 
 <br>
 
-**Ce que j'apprends :** 
+**Ce qui m'intéresse :** 
 <div style="display: inline-block">
       <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" />
       <img src="https://img.shields.io/badge/fastify-%23000000.svg?style=for-the-badge&logo=fastify&logoColor=white" />
