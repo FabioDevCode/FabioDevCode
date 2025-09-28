@@ -23,13 +23,18 @@ Constamment motivé par la découverte de nouvelles technologies et méthodes de
 
 **Ce qui m'intéresse :** 
 <div style="display: inline-block">
-      <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" />
-      <img src="https://img.shields.io/badge/fastify-%23000000.svg?style=for-the-badge&logo=fastify&logoColor=white" />
-      <img src="https://img.shields.io/badge/Prisma-16A394?style=for-the-badge&logo=Prisma&logoColor=white" />
-      <img src="https://img.shields.io/badge/Nuxt.js-10172A?style=for-the-badge&logo=nuxt&logoColor=#00DC82" />
-      <img src="https://img.shields.io/badge/tailwindcss-030712?style=for-the-badge&logo=tailwind-css&logoColor=#00BCFF" />
       <img src="https://img.shields.io/badge/docker-1D63ED?style=for-the-badge&logo=docker&logoColor=white" />
+      <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" />
+      <img src="https://img.shields.io/badge/Nuxt.js-10172A?style=for-the-badge&logo=nuxt&logoColor=#00DC82" />
+      <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />  
+      <img src="https://img.shields.io/badge/Flutter-055CA1.svg?style=for-the-badge&logo=Flutter&logoColor=white" />
 </div>
+
+<!--
+<img src="https://img.shields.io/badge/fastify-%23000000.svg?style=for-the-badge&logo=fastify&logoColor=white" />
+<img src="https://img.shields.io/badge/Prisma-16A394?style=for-the-badge&logo=Prisma&logoColor=white" />
+<img src="https://img.shields.io/badge/tailwindcss-030712?style=for-the-badge&logo=tailwind-css&logoColor=#00BCFF" />
+-->
 
 <br>
 
