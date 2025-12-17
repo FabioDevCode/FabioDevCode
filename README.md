@@ -38,12 +38,12 @@ Constamment motivé par la découverte de nouvelles technologies et méthodes de
 
 <br>
 
-<div style="display: inline-block" align="center">
+<div style="display: inline-block" align="left">
       <img height="160px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FabioDevCode&layout=compact&langs_count=8&theme=vue-dark&border_radius=8px&hide_border=true&hide_title=true&bg_color=FFFFFF00"/><img height="160px" src="https://github-readme-stats.vercel.app/api?username=FabioDevCode&theme=vue-dark&border_radius=8px&rank_icon=github&hide_border=true&hide_title=true&bg_color=FFFFFF00&show_icons=true&include_all_commits=true"/>
 </div>
 
 
-<div display="inline-block" align="center">
+<div display="inline-block" align="left">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/FabioDevCode/FabioDevCode/output/github-contribution-grid-snake-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/FabioDevCode/FabioDevCode/output/github-contribution-grid-snake-dark.svg">
