@@ -1,4 +1,4 @@
-# Fabio R. LOPES - Développeur FullStack - Node.js & Vue.js
+# Fabio R. LOPES | Développeur Full-Stack | Node.js & Vue.js
 
 <br>
 
