@@ -40,7 +40,7 @@ Constamment motivé par la découverte de nouvelles technologies et méthodes de
 
 
 <div style="display: inline-block" align="left">
-      <img height="220px" src="https://fabiodevcode.github.io/github-stats/stats-top6.svg"/>
+      <img height="220px" src="https://fabiodevcode.github.io/github-stats/stats-top4.svg"/>
       <img height="220px" src="https://fabiodevcode.github.io/github-stats/github-stats.svg"/>
 </div>
 
