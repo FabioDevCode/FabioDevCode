@@ -29,7 +29,7 @@ Curieux de nature, je m'intéresse aussi à différents domaines du développeme
   <br>
 
 - **✍🏼 [Markkk](https://github.com/FabioDevCode/Markkk)** - Éditeur de markdown & convertisseur PDF <br>
-  `Vue.js`
+  `Vue.js` `Github Pages`
   <br>
 
 - **🎧 [Slyhear](https://github.com/FabioDevCode/Slyhear)** - Application de streaming audio <br>
@@ -37,10 +37,10 @@ Curieux de nature, je m'intéresse aussi à différents domaines du développeme
   <br>
 
 - **🕹️ [Pokedex](https://fabiodevcode.github.io/Pokedex/)** - Pokedex de la première génération <br>
-  `Vue.js`
+  `Vue.js` `Github Pages`
   <br>
 
-## Stats Github
+## Statistiques Github
 
 <div display="inline-block" align="left">
       <img height="160px" src="https://fabiodevcode.github.io/github-stats/stats-top4.svg"/>
