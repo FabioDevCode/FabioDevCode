@@ -6,7 +6,7 @@
 
 Je construis des applications web de bout en bout, de la conception du backend et des bases de données jusqu'aux interfaces frontend, principalement avec Node.js et JavaScript.
 
-J'aime également explorer différents aspects transverses du développement logiciel, comme l'architecture, les processus de développement, les tests, la CI/CD, l'automatisation, la conteneurisation et le déploiement.
+J'aime également explorer différents aspects transverses du développement logiciel, comme l'architecture, les processus de développement, l'automatisation, la CI/CD, la conteneurisation et le déploiement.
 
 Curieux de nature, je m'intéresse aussi à différents domaines du développement. Je découvre notamment le développement mobile et j'explorerai prochainement le développement de jeux vidéo. Ces expériences me permettent d'aborder de nouvelles approches, d'élargir mes compétences et d'enrichir ma façon de concevoir des logiciels.
 
