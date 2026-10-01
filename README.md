@@ -10,8 +10,6 @@ J'aime également explorer différents aspects transverses du développement log
 
 Curieux de nature, je m'intéresse aussi à différents domaines du développement. Je découvre notamment le développement mobile et j'explorerai prochainement le développement de jeux vidéo. Ces expériences me permettent d'aborder de nouvelles approches, d'élargir mes compétences et d'enrichir ma façon de concevoir des logiciels.
 
-<br>
-
 ## Mes projets
 
 - **[Puna](https://github.com/FabioDevCode/Puna)** - Application open source et self-hosted de centralisation de formulaires <br>
@@ -35,18 +33,15 @@ Curieux de nature, je m'intéresse aussi à différents domaines du développeme
 - **[Pokedex](https://fabiodevcode.github.io/Pokedex/)** - Pokedex de la première génération <br>
   `Vue.js` `Github Pages`
 
-<br>
 
-## Statistiques Github
+## Mes statistiques Github
 
 <div display="inline-block" align="left">
       <img height="160px" src="https://fabiodevcode.github.io/github-stats/stats-top4.svg"/>
       <img height="160px" src="https://fabiodevcode.github.io/github-stats/github-stats.svg"/>
 </div>
 
-<br>
-
-## Activité
+## Mon activité
 
 <div display="inline-block" align="left">
   <picture>
