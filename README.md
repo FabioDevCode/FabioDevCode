@@ -2,7 +2,7 @@
 
 📍 Bordeaux, France
 
-#### Développeur Fullstack spécialisé dans l'écosystème JavaScript.
+### Développeur Fullstack spécialisé dans l'écosystème JavaScript.
 
 Je construis des applications web de bout en bout, de la conception du backend et des bases de données jusqu'aux interfaces frontend, principalement avec Node.js et JavaScript.
 
@@ -10,35 +10,32 @@ J'aime également explorer différents aspects transverses du développement log
 
 Curieux de nature, je m'intéresse aussi à différents domaines du développement. Je découvre notamment le développement mobile et j'explorerai prochainement le développement de jeux vidéo. Ces expériences me permettent d'aborder de nouvelles approches, d'élargir mes compétences et d'enrichir ma façon de concevoir des logiciels.
 
+<br>
+
 ## Mes projets
 
-- **🔷 [Puna](https://github.com/FabioDevCode/Puna)** - Application open source et self-hosted de centralisation de formulaires <br>
+- **[Puna](https://github.com/FabioDevCode/Puna)** - Application open source et self-hosted de centralisation de formulaires <br>
   `Node.js` `MariaDB` `Docker` `MCP`
-  <br>
 
-- **📱 [anime-time](https://github.com/FabioDevCode/anime-time)** - Application mobile pour traquer ses animes <br>
+- **[anime-time](https://github.com/FabioDevCode/anime-time)** - Application mobile pour traquer ses animes <br>
   `Flutter` `Dart` `GraphQL`
-  <br>
 
-- **📉 [github-stats](https://github.com/FabioDevCode/github-stats)** - Générateur de statistiques Github <br>
+- **[github-stats](https://github.com/FabioDevCode/github-stats)** - Générateur de statistiques Github <br>
   `Javascript` `Github Actions`
-  <br>
 
-- **🌐 [LinkPost](https://github.com/FabioDevCode/LinkPost)** - Extension Chrome pour enrichir l'interface LinkedIn <br>
+- **[LinkPost](https://github.com/FabioDevCode/LinkPost)** - Extension Chrome pour enrichir l'interface LinkedIn <br>
   `Javascript` `Chrome web store`
-  <br>
 
-- **✍🏼 [Markkk](https://github.com/FabioDevCode/Markkk)** - Éditeur de markdown & convertisseur PDF <br>
+- **[Markkk](https://github.com/FabioDevCode/Markkk)** - Éditeur de markdown & convertisseur PDF <br>
   `Vue.js` `Github Pages`
-  <br>
 
-- **🎧 [Slyhear](https://github.com/FabioDevCode/Slyhear)** - Application de streaming audio <br>
+- **[Slyhear](https://github.com/FabioDevCode/Slyhear)** - Application de streaming audio <br>
   `Node.js` `Python` `Docker`
-  <br>
 
-- **🕹️ [Pokedex](https://fabiodevcode.github.io/Pokedex/)** - Pokedex de la première génération <br>
+- **[Pokedex](https://fabiodevcode.github.io/Pokedex/)** - Pokedex de la première génération <br>
   `Vue.js` `Github Pages`
-  <br>
+
+<br>
 
 ## Statistiques Github
 
@@ -46,6 +43,8 @@ Curieux de nature, je m'intéresse aussi à différents domaines du développeme
       <img height="160px" src="https://fabiodevcode.github.io/github-stats/stats-top4.svg"/>
       <img height="160px" src="https://fabiodevcode.github.io/github-stats/github-stats.svg"/>
 </div>
+
+<br>
 
 ## Activité
 
