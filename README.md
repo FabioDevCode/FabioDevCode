@@ -13,25 +13,25 @@ Curieux de nature, je m'intéresse aussi à différents domaines du développeme
 ## Mes projets
 
 - **[Puna](https://github.com/FabioDevCode/Puna)** - Application open source et self-hosted de centralisation de formulaires <br>
-  `Node.js` `MariaDB` `Docker` `MCP`
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;`Node.js` `MariaDB` `Docker` `MCP`
 
 - **[anime-time](https://github.com/FabioDevCode/anime-time)** - Application mobile pour traquer ses animes <br>
-  `Flutter` `Dart` `GraphQL`
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;`Flutter` `Dart` `GraphQL`
 
 - **[github-stats](https://github.com/FabioDevCode/github-stats)** - Générateur de statistiques Github <br>
-  `Javascript` `Github Actions`
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;`Javascript` `Github Actions`
 
 - **[LinkPost](https://github.com/FabioDevCode/LinkPost)** - Extension Chrome pour enrichir l'interface LinkedIn <br>
-  `Javascript` `Chrome web store`
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;`Javascript` `Chrome web store`
 
 - **[Markkk](https://github.com/FabioDevCode/Markkk)** - Éditeur de markdown & convertisseur PDF <br>
-  `Vue.js` `Github Pages`
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;`Vue.js` `Github Pages`
 
 - **[Slyhear](https://github.com/FabioDevCode/Slyhear)** - Application de streaming audio <br>
-  `Node.js` `Python` `Docker`
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;`Node.js` `Python` `Docker`
 
 - **[Pokedex](https://fabiodevcode.github.io/Pokedex/)** - Pokedex de la première génération <br>
-  `Vue.js` `Github Pages`
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;`Vue.js` `Github Pages`
 
 
 ## Mes statistiques Github
