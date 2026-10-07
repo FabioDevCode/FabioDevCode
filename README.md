@@ -6,33 +6,17 @@
 
 Je construis des applications web de bout en bout, de la conception du backend et des bases de données jusqu'aux interfaces frontend, principalement avec Node.js et JavaScript.
 
-J'aime également explorer différents aspects transverses du développement logiciel, comme l'architecture, les processus de développement, l'automatisation, la CI/CD, la conteneurisation et le déploiement.
-
-Curieux de nature, je m'intéresse aussi à différents domaines du développement. Je découvre notamment le développement mobile et j'explorerai prochainement le développement de jeux vidéo. Ces expériences me permettent d'aborder de nouvelles approches, d'élargir mes compétences et d'enrichir ma façon de concevoir des logiciels.
+J'aime également explorer différents aspects transverses du développement logiciel, comme l'architecture, les processus de développement, l'automatisation, la CI/CD, la conteneurisation et le déploiement. Curieux de nature, j'explore aussi différents domaines, notamment le développement mobile et prochainement le jeu vidéo, afin d'élargir mes compétences.
 
 ## Mes projets
 
-- **[Puna](https://github.com/FabioDevCode/Puna)** - Application open source et self-hosted de centralisation de formulaires <br>
-  `Node.js` `MariaDB` `Docker` `MCP`
-
-- **[anime-time](https://github.com/FabioDevCode/anime-time)** - Application mobile pour traquer ses animes <br>
-  `Flutter` `Dart` `GraphQL`
-
-- **[github-stats](https://github.com/FabioDevCode/github-stats)** - Générateur de statistiques Github <br>
-  `Javascript` `Github Actions`
-
-- **[LinkPost](https://github.com/FabioDevCode/LinkPost)** - Extension Chrome pour enrichir l'interface LinkedIn <br>
-  `Javascript` `Chrome web store`
-
-- **[Markkk](https://github.com/FabioDevCode/Markkk)** - Éditeur de markdown & convertisseur PDF <br>
-  `Vue.js` `Github Pages`
-
-- **[Slyhear](https://github.com/FabioDevCode/Slyhear)** - Application de streaming audio <br>
-  `Node.js` `Python` `Docker`
-
-- **[Pokedex](https://fabiodevcode.github.io/Pokedex/)** - Pokedex de la première génération <br>
-  `Vue.js` `Github Pages`
-
+- **[Puna](https://github.com/FabioDevCode/Puna)** - Application open source et self-hosted de centralisation de formulaires
+- **[anime-time](https://github.com/FabioDevCode/anime-time)** - Application mobile pour traquer ses animes
+- **[github-stats](https://github.com/FabioDevCode/github-stats)** - Générateur de statistiques Github
+- **[LinkPost](https://github.com/FabioDevCode/LinkPost)** - Extension Chrome pour enrichir l'interface LinkedIn
+- **[Markkk](https://github.com/FabioDevCode/Markkk)** - Éditeur de markdown & convertisseur PDF
+- **[Slyhear](https://github.com/FabioDevCode/Slyhear)** - Application de streaming audio
+- **[Pokedex](https://fabiodevcode.github.io/Pokedex/)** - Pokedex de la première génération
 
 ## Mes statistiques Github
 
