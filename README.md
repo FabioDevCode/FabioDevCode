@@ -8,15 +8,11 @@ Je construis des applications web de bout en bout, de la conception du backend e
 
 J'aime également explorer différents aspects transverses du développement logiciel, comme l'architecture, les processus de développement, l'automatisation, la CI/CD, la conteneurisation et le déploiement. Curieux de nature, j'explore aussi différents domaines, notamment le développement mobile et prochainement le jeu vidéo, afin d'élargir mes compétences.
 
-<br>
-
 ## Side projects du moment
 
 - **[noffo](https://github.com/FabioDevCode/noffo)** : En construction...
 - **[anime-time](https://github.com/FabioDevCode/anime-time)** : Application mobile pour traquer ses animes
 - **[Puna](https://github.com/FabioDevCode/Puna)** : Application open source et self-hosted de centralisation de formulaires
-
-<br>
 
 ## Mes projets
 
@@ -26,16 +22,12 @@ J'aime également explorer différents aspects transverses du développement log
 - **[Slyhear](https://github.com/FabioDevCode/Slyhear)** : Application de streaming audio
 - **[Pokedex](https://fabiodevcode.github.io/Pokedex/)** : Pokedex de la première génération
 
-<br>
-
 ## Mes statistiques Github
 
 <div display="inline-block" align="left">
       <img height="170px" src="https://fabiodevcode.github.io/github-stats/stats-top4.svg"/>
       <img height="170px" src="https://fabiodevcode.github.io/github-stats/github-stats.svg"/>
 </div>
-
-<br>
 
 ## Mon activité
 
