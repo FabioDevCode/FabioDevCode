@@ -10,15 +10,21 @@ J'aime également explorer différents aspects transverses du développement log
 
 <br>
 
+## Side projects du moment
+
+- **[noffo](https://github.com/FabioDevCode/noffo)** : En construction...
+- **[anime-time](https://github.com/FabioDevCode/anime-time)** : Application mobile pour traquer ses animes
+- **[Puna](https://github.com/FabioDevCode/Puna)** : Application open source et self-hosted de centralisation de formulaires
+
+<br>
+
 ## Mes projets
 
-- **[Puna](https://github.com/FabioDevCode/Puna)** - Application open source et self-hosted de centralisation de formulaires
-- **[anime-time](https://github.com/FabioDevCode/anime-time)** - Application mobile pour traquer ses animes
-- **[github-stats](https://github.com/FabioDevCode/github-stats)** - Générateur de statistiques Github
-- **[LinkPost](https://github.com/FabioDevCode/LinkPost)** - Extension Chrome pour enrichir l'interface LinkedIn
-- **[Markkk](https://github.com/FabioDevCode/Markkk)** - Éditeur de markdown & convertisseur PDF
-- **[Slyhear](https://github.com/FabioDevCode/Slyhear)** - Application de streaming audio
-- **[Pokedex](https://fabiodevcode.github.io/Pokedex/)** - Pokedex de la première génération
+- **[github-stats](https://github.com/FabioDevCode/github-stats)** : Générateur de statistiques Github
+- **[LinkPost](https://github.com/FabioDevCode/LinkPost)** : Extension Chrome pour enrichir l'interface LinkedIn
+- **[Markkk](https://github.com/FabioDevCode/Markkk)** : Éditeur de markdown & convertisseur PDF
+- **[Slyhear](https://github.com/FabioDevCode/Slyhear)** : Application de streaming audio
+- **[Pokedex](https://fabiodevcode.github.io/Pokedex/)** : Pokedex de la première génération
 
 <br>
 
