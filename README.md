@@ -10,12 +10,13 @@ J'aime également explorer différents aspects transverses du développement log
 
 ## Side projects du moment
 
-- **[noffo](https://github.com/FabioDevCode/noffo)** : En construction...
+- **[hex-duel](https://github.com/FabioDevCode/hex-duel)** : Jeux vidéo en construction...
+- **[noffo](https://github.com/FabioDevCode/noffo)** : Application en construction...
 - **[anime-time](https://github.com/FabioDevCode/anime-time)** : Application mobile pour traquer ses animes
-- **[Puna](https://github.com/FabioDevCode/Puna)** : Application open source et self-hosted de centralisation de formulaires
 
 ## Mes projets
 
+- **[Puna](https://github.com/FabioDevCode/Puna)** : Application open source et self-hosted de centralisation de formulaires
 - **[github-stats](https://github.com/FabioDevCode/github-stats)** : Générateur de statistiques Github
 - **[LinkPost](https://github.com/FabioDevCode/LinkPost)** : Extension Chrome pour enrichir l'interface LinkedIn
 - **[Markkk](https://github.com/FabioDevCode/Markkk)** : Éditeur de markdown & convertisseur PDF
